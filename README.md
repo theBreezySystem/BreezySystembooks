@@ -1,4 +1,4 @@
-I Want Claudia to Survive Wiki
+I Want Claudia to Survive Refrence Pages
 
 Welcome to the reference pages for the fanfic I Want Claudia to Survive.
 
