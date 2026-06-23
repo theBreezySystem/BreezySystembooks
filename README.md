@@ -7,22 +7,20 @@ This repository contains character biographies, locations, historical timelines,
 
 ## Jump to
 
-📖 Characters
+📖 [Characters](Characters/)
 
-[Characters](Characters/)
+🌍 [Places](Places/)
 
-🌍 Places
+📅 [Timeline](Timeline/)
 
-📅 Timeline
+🧛[Lore](Lore/)
 
-🧛 Vampire Lore
+⛵ [Ships](Ships/)
 
-⛵ Ships
+🎭 [Families](Families/)
 
-🎭 Families
+📚 [Sources](Sources/)
 
-📚 Sources
+📝 [Story Notes](StoryNotes/)
 
-📝 Story Notes
-
-Research
+🧪 [Research](Research/)
