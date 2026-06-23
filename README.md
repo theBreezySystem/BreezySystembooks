@@ -9,6 +9,8 @@ This repository contains character biographies, locations, historical timelines,
 
 📖 Characters
 
+[Characters](Characters/)
+
 🌍 Places
 
 📅 Timeline
