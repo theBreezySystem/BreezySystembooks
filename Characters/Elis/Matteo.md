@@ -152,11 +152,16 @@ Describe their immortal life.
 
 # Relationships
 
-| Character | Relationship | Notes |
-|-----------|--------------|-------|
-| | | |
-| | | |
-| | | |
+| Character | Birth Year | Relationship | Notes |
+|-----------|------------|--------------|-------|
+| Lucia | 1453 | Wife |
+| Paolo | 1475 | Eldest son |
+| Elana | 1478 | Daughter |
+| Rosa | 1481 | Daughter |
+| Marco | | Metamour | Captain |
+| Maria | | Metamour | Marco's Wife |
+| Bambolotta | | god daughter | Marco's daughter |
+| Marcolino | | god son | Marco's son |
 
 ---
 
@@ -167,12 +172,9 @@ Describe their immortal life.
 | 1457 | Born | |
 | 1475| Marries Lucia | 18 |
 | | Paolo is born | |
-
 | 1476 | House burns down | 19 |
-
 | 1478 | Elana is born | 21 |
-
-|1481 | Rosa is born | 24 |
+| 1481 | Rosa is born | 24 |
 
 ---
 
@@ -180,6 +182,7 @@ Describe their immortal life.
 
 - Dominant hand: Right
 - Languages spoken: Venetian, Greek (conversational), Dalmation (Some)
+- childhood friend of Barto
 
 
 ---
