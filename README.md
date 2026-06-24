@@ -8,6 +8,11 @@ This repository contains character biographies, locations, historical timelines,
 ## Jump to
 
 📖 [Characters](Characters/)
+<details>
+<summary>Cool Dropdown</summary>
+blah blah blah blah you found me!
+</details>
+
 
 🌍 [Places](Places/)
 
