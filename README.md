@@ -7,10 +7,11 @@ This repository contains character biographies, locations, historical timelines,
 
 ## Jump to
 
-📖 [Characters](Characters/)
 <details>
-<summary>Cool Dropdown</summary>
-blah blah blah blah you found me!
+<summary>📖 [Characters](Characters/) </summary>
+  
+[Elis](Characters/Elis)
+
 </details>
 
 
