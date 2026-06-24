@@ -8,7 +8,7 @@ This repository contains character biographies, locations, historical timelines,
 ## Jump to
 
 <details>
-<summary>📖 [Characters](Characters/) </summary>
+<summary>📖 Characters </summary>
   
 [Elis](Characters/Elis)
 
