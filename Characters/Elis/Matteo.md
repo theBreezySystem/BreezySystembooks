@@ -158,9 +158,9 @@ Describe their immortal life.
 | Paolo | 1475 | Eldest son |
 | Elana | 1478 | Daughter |
 | Rosa | 1481 | Daughter |
-| Marco | | Metamour | Captain |
-| Maria | | Metamour | Marco's Wife |
-| Bambolotta | | god daughter | Marco's daughter |
+| Marco | 1438 | Partner | Captain |
+| Maria | 1450 | Metamour | Marco's Wife |
+| Bambolotta | 1471 | god daughter | Marco's daughter |
 | Marcolino | | god son | Marco's son |
 
 ---
