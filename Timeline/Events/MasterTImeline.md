@@ -1,8 +1,4 @@
-4091 BCE - Nebra is born
 
-4089 BCE - Khonsu is born
-
-4085 BCE - Hor, Nefer, and Kept are born
 
 4084 BCE - Befa is born
 
@@ -18,13 +14,16 @@
 
 ---
 
-# Matteo's timeline
+# Master Timeline
 
 | Date | Event | Age |
 |------|-------|-----|
 | 4091 BCE | Nebra is born | |
 | 4089 BCE | Khonsu is born | |
 | 4085 BCE | Hor, Nefer and Kept are born | |
+| 4084 | Befa is born | | |
+| 4083 | Nehy and Hebt are born | | |
+| 4080 | Jeru is born | | |
 | 1457 | Matteo Born | |
 | 1475| Marries Lucia | 18 |
 | | Paolo is born | |
