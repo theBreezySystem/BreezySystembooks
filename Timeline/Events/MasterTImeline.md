@@ -24,6 +24,9 @@
 | 4084 | Befa is born |
 | 4083 | Nehy and Hebt are born |
 | 4080 | Jeru is born |
+| 4047 | Ka-Nefer-Khred is born |
+| 4024 | Oca is born |
+| 4004 | The river gaurd crew <br> are turned during Akadha's wave <br> of indiscriminate creations. |
 | 1457 | Matteo Born |
 | 1475| Marries Lucia |
 | | Paolo is born |
