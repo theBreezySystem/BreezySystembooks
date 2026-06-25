@@ -1,17 +1,3 @@
-
-
-4084 BCE - Befa is born
-
-4083 BCE - Nehy and Hebt are born
-
-4080 BCE - Jeru is born
-
-4047 - Ka-nefer-khred is born
-
-4024 BCE — Oca is born.
-
-4004 BCE — The river gaurd crew are turned during Akasha's first wave of indiscriminate creations.
-
 --
 
 # Master Timeline
@@ -26,44 +12,40 @@
 | 4080 | Jeru is born |
 | 4047 | Ka-Nefer-Khred is born |
 | 4024 | Oca is born |
-| 4004 | The river gaurd crew <br> are turned during Akadha's wave <br> of indiscriminate creations. |
-| 1457 | Matteo Born |
-| 1475| Marries Lucia |
-| | Paolo is born |
-| 1476 | House burns down |
-| 1478 | Elana is born |
-| 1481 | Rosa is born |
+| | Oca, 8, is sold into slavery |
+| | Oca, 13, is sold to a brothel |
+| | Oca, 15, ecapes to the river gaurd |
+| 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
+| | Oca spends thousands of years in the sea. |
+| | Oca comes up and meets "Moonboy." |
+| | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
+| 1439 | Marco is born |
+| 1447 | Matteo Born |
+| 1448 | Maria is born |
+| 1453 | Lucia is born |
+| 1469 | Marco, 28 and Maria, 17 meet <br> Marco and Matteo, meet, having both been hired for the same ship |
+| 1470 | Marco, 29, and Maria, 18, marry <br> Marco and Matteo goe on a few voyages together and become besties. ||
+| 1471 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
+| 1473 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
+| | Marco starts climbing rank with the encouragement of Matteo. <br> He invies Matteo to climb iwth him, but Matteo found Lucia and concentrates on her. |
+| 1475 | Matteo, 26 and Lucia, 18, are married. <br> Paolo is born to them and Matteo takes time off. |
+| 1476 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
+| 1477 | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close |
+| 1478 | Elana is born to Matteo, 29, and Lucia, 21. <br> Matteo takes time off. |
+| 1479 | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pnumonia. Marco takes Little Gull. 8. on his first voyage. |
+| 1480 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. <br> Marco has big feels about it and goes on a <br> 6 month journey without Matteo.|
+| | He coms to term with stuff and decides to move everyone to somewhere safer for them. He decides to take shorter trips to stay more connected to his household. |
+| 1481 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
+| 1483 | Oca's journey is here. |
+| 1484 | Short trips |
+| 1485 | Short trips |
+| 1486 | Long journey with Oca |
+| 1487 | Same long journey |
+| 1488 | Oca goes on a few more short trips |
+| 1489 | Amedeo is taken |
+
 --
 
-
-4000 bce
-
-Oca is born
-Sold into slavery at 3yr old
-
-Sold to a brothel at 12
-
-Escapes on the river boat at 15
-
-
-
-
-Oca is 38 when attacked by Akasha
-
-
-Oca spends thousands of years in the sea
-
-Oca comes up and meets “Moonboy”
-
-
-
-Oca spends thousands more cultivating a thriving ecosystem of fish near what was Moonboy’s home
-
-
-Marco marries (Marco’s wife) when he is 27 and she is 19
-
-Matteo marries Lucia when he is 26 and she’s 18-25 if tavern worker or 17-21 if brothel
-A captain recruits Marco and Matteo at a pub
 
 Marco and Matteo go on a few voyages together and become besties
 
@@ -80,60 +62,4 @@ The kids start all bunking togeher in the main house
 The men come home for a few months and then go on another shorter, few 2 month journey.
 
 Matteo is 34 and Marco is 42 when they ventured
-	Marco
-1439	1
-1440	2
-1441	3
-1442	4
-1443	5
-1444	6
-1445	7	
-1446	8	
-1447	9  	     		Matteo
-1448	10   Maria		
-1449	11			1	
-1450	12	1		2	
-1451	13	2		3	
-1452	14	3		4	
-1453	15	4		5	Lucia
-1454	16	5		7	
-1455	17	6		8	1	
-1456	18	7		9	2	
-1457	19	8		10	3	
-1458	20	9		11	4	
-1459	21	10		12	5	
-1460	22	11		13	6	
-1461	23	12		14	7	
-1462	24	13		15	8	
-1463	25	14		16	9	
-1464	26	15		17	10	
-1465	27	16		18	11	
-1469	28 -a-	17		19	12	
-1470	29 -m-	18		20	13	
-1471	30	19-Lucia	22	14	
-1472	31	20		23	15	
-1473	32	21-Marcolino	24 -a-	16	
-1474	33	22		25	17	
-1475	34	23		26 -m-	18-Paolo is born Matteo takes time off	
-1476	35	24		27	19 Matteo's house burns down and Marco invites his famiy to live with them. 
-1477	36	25		28	20- Matteo is back, they go off for 10 months
-1478	37	26		29	21- Elana born- Matteo takes time off	
-1479	38	27		30	22 Marco and Matteo go on a two shorter journies Antonio dies, and Marco takes Little Gull who is 8
-1480	39	28		31	23- Heated beginning of the year, 3 happens, Marco has feels and goes on a 6 mo journey w/o Mattoe	He coms to term with stuff and decides to move everyone to somewhere safer for them. He decides to take shorter trips to stay more connected to his household.
-1481	40	29		32	24-Rose born	
-1482	41	30		33	25 	
-1483 Our Journey is here
-	42	31		34	26
-
-1484 Short trips
-1485 Short trips
-
-Long Journey with Oca, Matteo and Marco
-1486 	
-1487
-
-1488 Oca goes on a few more short trips 
-
-
-1489- Amedo is taken
 
