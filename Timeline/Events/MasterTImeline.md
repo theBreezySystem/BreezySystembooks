@@ -18,7 +18,9 @@
 
 | Date | Event |
 |------|-------|-----|
-| 4091 BCE | Nebra is born | |
+| 4091 BCE | Nebra is born |
+
+|
 | 4089 BCE | Khonsu is born | |
 | 4085 BCE | Hor, Nefer and Kept are born | |
 | 4084 | Befa is born | | |
