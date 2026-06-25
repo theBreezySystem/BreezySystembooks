@@ -12,11 +12,11 @@
 
 4004 BCE — The river gaurd crew are turned during Akasha's first wave of indiscriminate creations.
 
----
+--
 
 # Master Timeline
 
-| Date | Event | Age |
+| Date | Event |
 |------|-------|-----|
 | 4091 BCE | Nebra is born | |
 | 4089 BCE | Khonsu is born | |
@@ -31,7 +31,7 @@
 | 1478 | Elana is born | 21 |
 | 1481 | Rosa is born | 24 |
 
----
+--
 
 
 4000 bce
