@@ -29,3 +29,18 @@
 | 1481 | Rosa is born | 24 |
 
 ---
+
+---
+
+# Chronology
+
+| Date | Event | Age |
+|------|-------|-----|
+| 1457 | Born | |
+| 1475| Marries Lucia | 18 |
+| | Paolo is born | |
+| 1476 | House burns down | 19 |
+| 1478 | Elana is born | 21 |
+| 1481 | Rosa is born | 24 |
+
+---
