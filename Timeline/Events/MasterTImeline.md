@@ -16,10 +16,11 @@
 
 4004 BCE — The river gaurd crew are turned during Akasha's first wave of indiscriminate creations.
 
-# Matteo's timeline
-
 ---
 
+# Matteo's timeline
+
+| Date | Event | Age |
 |------|-------|-----|
 | 1457 | Matteo Born | |
 | 1475| Marries Lucia | 18 |
