@@ -26,7 +26,7 @@ This repository contains character biographies, locations, historical timelines,
 ⛵ [Ships](Ships/)
 
 <details>
-<summary> 🎭 Families </summary>
+<summary> 🎭 Groups and Families </summary>
 
 [Bellandi](Families/Bellandi.md)
 
