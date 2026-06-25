@@ -1,11 +1,22 @@
-Nebra-Suhui
-Sa-Sebek
+Nebra-Suhui, Nebra
+
+Sa-Sebek, Sebek
+
 Sa-Kept, Kept, 
-Senbefa, Befa, 
-Sa-Khonsu, Khonsu, 
-Kem-hetep, Jeru, 
-Ren-hetep, Ren, 
-Nefer-hetep, Nefer, 
+
+Senbefa, Befa,
+
+Sa-Khonsu, Khonsu,
+
+Kem-hetep, Jeru,
+
+Ren-hetep, Ren,
+
+Nefer-hetep, Nefer,
+
 Hor-hetep, Hor
+
 Ka-Nefer-Khred
+
 Akh
+
