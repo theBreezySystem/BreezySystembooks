@@ -15,12 +15,12 @@ This repository contains character biographies, locations, historical timelines,
 <summary>👥 Characters </summary>
   
 
-<details> <!--Begin elis dropdown-->
-<summary> 🦇 Elis </summary>
+><details> <!--Begin elis dropdown-->
+><summary> 🦇 Elis </summary>
 
-[Matteo](Characters/Elis/Matteo.md)
+>[Matteo](Characters/Elis/Matteo.md)
 
-</details> <!--end elis dropdown-->
+></details> <!--end elis dropdown-->
 
 
 <details> <!--Begin human dropdown-->
