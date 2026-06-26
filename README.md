@@ -36,6 +36,8 @@ Goal
 
 </details> <!--end Caracters dropdown-->
 
+
+
 ><details><!--Begin Individuals dropdown-->
 <summary> Individuals </summary>
 
