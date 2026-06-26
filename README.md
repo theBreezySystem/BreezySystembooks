@@ -1,4 +1,8 @@
-I Want Claudia to Survive Refrence Pages
+Please Note: I am not the best coder<br>
+
+I just needed a spot for my stuff so I'm learning!
+
+## I Want Claudia to Survive Refrence Pages
 
 Welcome to the reference pages for the fanfic I Want Claudia to Survive.
 
