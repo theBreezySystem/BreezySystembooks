@@ -16,7 +16,6 @@ Goal
 ├── Groups
 └── Relationships
 
-🌍 Places
 
 📚 Lore
 ├── Timeline
@@ -26,20 +25,22 @@ Goal
 ├── Magic
 └── Culture
 
+🌍 Places
+
 📖 Research
 
 ## Jump to
 
 <details> <!--Begin character dropdown-->
-<summary>👥 Characters </summary>
+<summary>👥 ##Characters </summary>
 
 <details><!--Begin Individuals dropdown-->
-<summary> Individuals </summary>
+<summary> ##Individuals </summary>
 
 
 
 <details> <!--Begin elis dropdown-->
-<summary> 🦇 Elis </summary>
+<summary> 🦇 ##Elis </summary>
 
 [Matteo](Characters/Elis/Matteo.md)
 
@@ -47,7 +48,7 @@ Goal
 
 
 <details> <!--Begin human dropdown-->
-<summary> 👦🏾 Humans </summary>
+<summary> 👦🏾 ##Humans </summary>
 
 Alessio
 Alexios
@@ -97,14 +98,14 @@ Vinchenzo
 
 
 <details> <!--Begin Vampire dropdown-->
-<summary> 🧛 Vampires </summary>
+<summary> 🧛 ##Vampires </summary>
 
 Oca
 
 </details> <!--end vampire dropdown-->
 
 <details><!--begin Others dropdown-->
-<summary> 🐈 Others </summary>
+<summary> 🐈 ##Others </summary>
 
 Kisha
 Zorzi
@@ -115,9 +116,44 @@ Zorzi
 
 
 
-Relationships
-Families
-Groups 
+
+<details><!--Begin Relationhips dropdown-->
+<summary> 💕 ##Relationships </summary>
+
+Lucia and Matteo <br>
+Lucia and Maria <br>
+Lucia and Marco <br>
+Matteo and Marco <br>
+
+
+</details><!--end Relationships dropdown-->
+
+
+
+<details><!--begin Groups and Families dropdown-->
+<summary> 🎭 ##Groups and Families </summary>
+
+
+<details><!--Begin Families dropdown-->
+<summary> 👨‍👩‍👧‍👦 ##Families </summary>
+
+[Bellandi](Families/Bellandi.md)
+
+</details><!--end Families dropdown-->
+
+
+<details><!--Begin Grops dropdown-->
+<summary> 👥 Groups </summary>
+
+River Gaurd crew
+San Marco Crew (1483)
+Ship Crew (1475)
+
+</details><!--end Groups dropdown-->
+
+
+</details><!--end the Groups and Families dropdown-->
+
 
 </details> <!--end Caracters dropdown-->
 
@@ -131,16 +167,16 @@ Groups
 
 
 <details> <!--begin Lore dropdown-->
-<summary> 📜 Lore </summary>
+<summary> 📜 ##Lore </summary>
 
 
 <details> <!--Begin Timeline and Events dropdown-->
-<summary> 🗓️ Timeline and Events </summary>
+<summary> 🗓️ ##Timeline and Events </summary>
 
 [📅 Timeline ](Timeline/Events/MasterTImeline.md)
 
 <details> <!--Begin Events dropdown-->
-<summary> 📌 Events </summary>
+<summary> 📌 ##Events </summary>
 
 Akasha's attack on the River Gaurd Crew
 
@@ -162,36 +198,20 @@ San Marco's stop in Constantinople
 
 
 <details> <!--begin Vampire Lore dropdown-->
-<summary>🧛 Vampire Lore</summary>
+<summary>🧛 ##Vampire Lore</summary>
 
 </details><!--end vampire lore dropdown-->
 
 
 
 <details><!--begin Elis Lore dropdown-->
-<summary> 🦇 Elis Lore </summary>
+<summary> 🦇 ##Elis Lore </summary>
 
 
-</details>
-
-
-</details> <!--end Lore dropdown-->
-
-
+</details><!--end Elis Lore-->
 
 <details><!--Begin Ships dropdown-->
 <summary> ⛵ Ships </summary>
-
-<details><!--Begin Relationhips dropdown-->
-<summary> 💕 Relationships </summary>
-
-Lucia and Matteo <br>
-Lucia and Maria <br>
-Lucia and Marco <br>
-Matteo and Marco <br>
-
-
-</details><!--end Relationships dropdown-->
 
 
 <details><!--Begin Sailing Ships dropdown-->
@@ -209,30 +229,10 @@ Rowboat <br>
 </details><!--end Ships dropdown-->
 
 
-
-<details><!--begin Groups and Families dropdown-->
-<summary> 🎭 Groups and Families </summary>
+</details> <!--end Lore dropdown-->
 
 
-<details><!--Begin Families dropdown-->
-<summary> 👨‍👩‍👧‍👦 Families </summary>
 
-[Bellandi](Families/Bellandi.md)
-
-</details><!--end Families dropdown-->
-
-
-<details><!--Begin Grops dropdown-->
-<summary> 👥 Groups </summary>
-
-River Gaurd crew
-San Marco Crew (1483)
-Ship Crew (1475)
-
-</details><!--end Groups dropdown-->
-
-
-</details><!--end the Groups and Families dropdown-->
 
 
 
