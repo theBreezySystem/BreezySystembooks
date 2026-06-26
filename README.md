@@ -16,12 +16,11 @@ This repository contains character biographies, locations, historical timelines,
   
 
 <details>
-<summary> [Elis](Characters/Elis) </summary>
+<summary> Elis </summary>
 
 [Matteo](Characters/Elis/Matteo.md)
 
 </details> <!--end elis dropdown-->
-[Elis](Characters/Elis)
 
 
 <details>
@@ -33,7 +32,7 @@ This repository contains character biographies, locations, historical timelines,
 
 
 <details>
-<summary> V </summary>
+<summary> Vampires </summary>
 
 
 
