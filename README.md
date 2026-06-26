@@ -33,30 +33,21 @@ Goal
 <details> <!--Begin character dropdown-->
 <summary>👥 Characters </summary>
 
-Individuals
-Relationships
-Families
-Groups 
-
-</details> <!--end Caracters dropdown-->
-
-
-
-><details><!--Begin Individuals dropdown-->
+<details><!--Begin Individuals dropdown-->
 <summary> Individuals </summary>
 
 
 
->><details> <!--Begin elis dropdown-->
->><summary> 🦇 Elis </summary>
+<details> <!--Begin elis dropdown-->
+<summary> 🦇 Elis </summary>
 
->>[Matteo](Characters/Elis/Matteo.md)
+[Matteo](Characters/Elis/Matteo.md)
 
->></details> <!--end elis dropdown-->
+</details> <!--end elis dropdown-->
 
 
->><details> <!--Begin human dropdown-->
->><summary> 👦🏾 Humans </summary>
+<details> <!--Begin human dropdown-->
+<summary> 👦🏾 Humans </summary>
 
 Alessio
 Alexios
@@ -121,6 +112,17 @@ Zorzi
 </details><!--end Others dropdown-->
 
 </details> <!--end Individuals dropdown-->
+
+
+
+Relationships
+Families
+Groups 
+
+</details> <!--end Caracters dropdown-->
+
+
+
 
 
 
