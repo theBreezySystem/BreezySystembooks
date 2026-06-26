@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](../../../README.md)
 
 ##Character Name
 
@@ -194,5 +194,3 @@ Describe their immortal life.
 Place artwork, references, or concept sketches here.
 
 ```
-
-[Home](README.md)
