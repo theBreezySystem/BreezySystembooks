@@ -32,7 +32,7 @@ Goal
 ## Jump to
 
 
-##Characters
+## Characters
 <details> <!--Begin character dropdown-->
 <summary>👥 </summary>
 
@@ -166,7 +166,7 @@ Ship Crew (1475)
 
 
 
-##Lore
+## Lore
 <details> <!--begin Lore dropdown-->
 <summary> 📜 </summary>
 
