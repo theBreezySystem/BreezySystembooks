@@ -12,7 +12,7 @@ This repository contains character biographies, locations, historical timelines,
 ## Jump to
 
 <details> <!--Begin character dropdown-->
-<summary>📖 Characters </summary>
+<summary>👥 Characters </summary>
   
 
 <details> <!--Begin elis dropdown-->
@@ -73,7 +73,7 @@ This repository contains character biographies, locations, historical timelines,
 
 
 <details> <!--begin Lore dropdown-->
-<summary> Lore </summary>
+<summary> 📖 Lore </summary>
 
 
 <details> <!--begin Vampire Lore dropdown-->
