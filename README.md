@@ -167,7 +167,6 @@ Ship Crew (1475)
 
 
 ##Lore
-
 <details> <!--begin Lore dropdown-->
 <summary> 📜 </summary>
 
@@ -237,7 +236,7 @@ Rowboat <br>
 
 
 
-## Plane
+## Places
 <details> <!--Begin Places dropdown-->
 <summary> 🌍 </summary>
 
