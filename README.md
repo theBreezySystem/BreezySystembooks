@@ -14,18 +14,31 @@ This repository contains character biographies, locations, historical timelines,
 <details>
 <summary>📖 Characters </summary>
   
+
+<details>
+<summary> [Elis](Characters/Elis) </summary>
+
+[Matteo](Characters/Elis/Matteo.md)
+
+</details> <!--end elis dropdown-->
 [Elis](Characters/Elis)
 
 
 <details>
 <summary> Humans </summary>
 
-[Matteo](Characters/Elis/Matteo.md)
 
 </details> <!--end human dropdown-->
 
 
-[Matteo](Characters/Elis/Matteo.md)
+
+<details>
+<summary> V </summary>
+
+
+
+</details> <!--end vampire dropdown-->
+
 
 </details> <!--end Caracters dropdown-->
 
