@@ -130,6 +130,8 @@ Groups
 
 
 
+<details> <!--begin Lore dropdown-->
+<summary> 📜 Lore </summary>
 
 
 <details> <!--Begin Timeline and Events dropdown-->
@@ -156,8 +158,6 @@ San Marco's stop in Constantinople
 </details> <!--end Timeline and Events dropdown-->
 
 
-<details> <!--begin Lore dropdown-->
-<summary> 📜 Lore </summary>
 
 
 
