@@ -157,10 +157,10 @@ San Marco's stop in Constantinople
 <details><!--Begin Relationhips dropdown-->
 <summary> 💕 Relationships </summary>
 
-Lucia and Matteo
-Lucia and Maria
-Lucia and Marco
-Matteo and Marco
+Lucia and Matteo <br>
+Lucia and Maria <br>
+Lucia and Marco <br>
+Matteo and Marco <br>
 
 
 </details><!--end Relationships dropdown-->
@@ -169,11 +169,11 @@ Matteo and Marco
 <details><!--Begin Sailing Ships dropdown-->
 <summary> ⛵ Sailing Ships </summary>
 
-San Marco Carrack
-1475 Carrack
-Corsair
-Caravel
-Rowboat
+San Marco Carrack <br>
+1475 Carrack <br>
+Corsair <br>
+Caravel <br>
+Rowboat <br>
 
 </details><!--end Sailing Ships dropdown-->
 
