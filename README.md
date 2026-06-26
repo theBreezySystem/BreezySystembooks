@@ -13,18 +13,22 @@ This repository contains character biographies, locations, historical timelines,
 
 <details> <!--Begin character dropdown-->
 <summary>👥 Characters </summary>
-  
 
-><details> <!--Begin elis dropdown-->
-><summary> 🦇 Elis </summary>
-
->[Matteo](Characters/Elis/Matteo.md)
-
-></details> <!--end elis dropdown-->
+><details><!--Begin Individuals dropdown-->
+<summary> Individuals </summary>
 
 
-<details> <!--Begin human dropdown-->
-<summary> 👦🏾 Humans </summary>
+
+>><details> <!--Begin elis dropdown-->
+>><summary> 🦇 Elis </summary>
+
+>>[Matteo](Characters/Elis/Matteo.md)
+
+>></details> <!--end elis dropdown-->
+
+
+>><details> <!--Begin human dropdown-->
+>><summary> 👦🏾 Humans </summary>
 
 Alessio
 Alexios
@@ -69,7 +73,7 @@ Vinchenzo
 
 
 
-</details> <!--end human dropdown-->
+>></details> <!--end human dropdown-->
 
 
 
@@ -88,20 +92,14 @@ Zorzi
 
 </details><!--end Others dropdown-->
 
+</details> <!--end Individuals dropdown-->
+
 
 </details> <!--end Caracters dropdown-->
 
 
 
-<details> <!--Begin Places dropdown-->
-<summary> 🌍 Places </summary>
 
-Venice 1400-1500's
-Chioggia 1400-1500's
-Constantinople 1400-1500's
-Dalmation Islands 1400-1500's
-
-</details> <!--end Places dropdown-->
 
 
 
@@ -131,6 +129,7 @@ San Marco's stop in Constantinople
 
 <details> <!--begin Lore dropdown-->
 <summary> 📜 Lore </summary>
+
 
 
 <details> <!--begin Vampire Lore dropdown-->
@@ -205,6 +204,18 @@ Ship Crew (1475)
 
 
 </details><!--end the Groups and Families dropdown-->
+
+
+
+<details> <!--Begin Places dropdown-->
+<summary> 🌍 Places </summary>
+
+Venice 1400-1500's
+Chioggia 1400-1500's
+Constantinople 1400-1500's
+Dalmation Islands 1400-1500's
+
+</details> <!--end Places dropdown-->
 
 
 
