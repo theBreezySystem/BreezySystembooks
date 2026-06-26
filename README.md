@@ -1,6 +1,6 @@
 Please Note: I am not the best coder<br>
 
-I just needed a spot for my stuff so I'm learning!
+I just needed a spot for my stuff so I'm learning Markdown
 
 ## I Want Claudia to Survive Refrence Pages
 
@@ -16,9 +16,18 @@ This repository contains character biographies, locations, historical timelines,
   
 [Elis](Characters/Elis)
 
+
+<details>
+<summary> Humans </summary>
+
 [Matteo](Characters/Elis/Matteo.md)
 
-</details>
+</details> <!--end human dropdown-->
+
+
+[Matteo](Characters/Elis/Matteo.md)
+
+</details> <!--end Caracters dropdown-->
 
 
 🌍 [Places](Places/)
