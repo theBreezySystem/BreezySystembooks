@@ -31,16 +31,18 @@ Goal
 
 ## Jump to
 
+
+##Characters
 <details> <!--Begin character dropdown-->
-<summary>👥 ##Characters </summary>
+<summary>👥 </summary>
 
 <details><!--Begin Individuals dropdown-->
-<summary> ##Individuals </summary>
+<summary> Individuals </summary>
 
 
 
 <details> <!--Begin elis dropdown-->
-<summary> 🦇 ##Elis </summary>
+<summary> 🦇 Elis </summary>
 
 [Matteo](Characters/Elis/Matteo.md)
 
@@ -48,7 +50,7 @@ Goal
 
 
 <details> <!--Begin human dropdown-->
-<summary> 👦🏾 ##Humans </summary>
+<summary> 👦🏾 Humans </summary>
 
 Alessio
 Alexios
@@ -98,14 +100,14 @@ Vinchenzo
 
 
 <details> <!--Begin Vampire dropdown-->
-<summary> 🧛 ##Vampires </summary>
+<summary> 🧛 Vampires </summary>
 
 Oca
 
 </details> <!--end vampire dropdown-->
 
 <details><!--begin Others dropdown-->
-<summary> 🐈 ##Others </summary>
+<summary> 🐈 Others </summary>
 
 Kisha
 Zorzi
@@ -118,7 +120,7 @@ Zorzi
 
 
 <details><!--Begin Relationhips dropdown-->
-<summary> 💕 ##Relationships </summary>
+<summary> 💕 Relationships </summary>
 
 Lucia and Matteo <br>
 Lucia and Maria <br>
@@ -164,19 +166,19 @@ Ship Crew (1475)
 
 
 
-
+##Lore
 
 <details> <!--begin Lore dropdown-->
-<summary> 📜 ##Lore </summary>
+<summary> 📜 </summary>
 
 
 <details> <!--Begin Timeline and Events dropdown-->
-<summary> 🗓️ ##Timeline and Events </summary>
+<summary> 🗓️ Timeline and Events </summary>
 
 [📅 Timeline ](Timeline/Events/MasterTImeline.md)
 
 <details> <!--Begin Events dropdown-->
-<summary> 📌 ##Events </summary>
+<summary> 📌 Events </summary>
 
 Akasha's attack on the River Gaurd Crew
 
@@ -198,14 +200,14 @@ San Marco's stop in Constantinople
 
 
 <details> <!--begin Vampire Lore dropdown-->
-<summary>🧛 ##Vampire Lore</summary>
+<summary>🧛 Vampire Lore</summary>
 
 </details><!--end vampire lore dropdown-->
 
 
 
 <details><!--begin Elis Lore dropdown-->
-<summary> 🦇 ##Elis Lore </summary>
+<summary> 🦇 Elis Lore </summary>
 
 
 </details><!--end Elis Lore-->
@@ -235,9 +237,9 @@ Rowboat <br>
 
 
 
-
+## Plane
 <details> <!--Begin Places dropdown-->
-<summary> 🌍 Places </summary>
+<summary> 🌍 </summary>
 
 Venice 1400-1500's
 Chioggia 1400-1500's
