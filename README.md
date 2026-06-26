@@ -33,6 +33,10 @@ Goal
 <details> <!--Begin character dropdown-->
 <summary>👥 Characters </summary>
 
+Individuals
+Relationships
+Families
+Groups 
 
 </details> <!--end Caracters dropdown-->
 
