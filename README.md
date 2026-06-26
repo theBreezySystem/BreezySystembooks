@@ -208,10 +208,4 @@ Ship Crew (1475)
 
 
 
-📚 [Sources](Sources/)
-
-
-📝 [Story Notes](StoryNotes/)
-
-
 🧪 [Research](Research/)
