@@ -9,10 +9,32 @@ Welcome to the reference pages for the fanfic I Want Claudia to Survive.
 This repository contains character biographies, locations, historical timelines, lore, and worldbuilding notes.
 
 
+Goal
+👥 Characters
+├── Individuals
+├── Families
+├── Groups
+└── Relationships
+
+🌍 Places
+
+📚 Lore
+├── Timeline
+├── History
+├── Sailing Ships
+├── Species
+├── Magic
+└── Culture
+
+📖 Research
+
 ## Jump to
 
 <details> <!--Begin character dropdown-->
 <summary>👥 Characters </summary>
+
+
+</details> <!--end Caracters dropdown-->
 
 ><details><!--Begin Individuals dropdown-->
 <summary> Individuals </summary>
@@ -95,7 +117,6 @@ Zorzi
 </details> <!--end Individuals dropdown-->
 
 
-</details> <!--end Caracters dropdown-->
 
 
 
