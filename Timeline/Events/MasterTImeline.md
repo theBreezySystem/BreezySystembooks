@@ -12,9 +12,9 @@
 | 4080 | Jeru is born |
 | 4047 | Ka-Nefer-Khred is born |
 | 4024 | Oca is born |
-| | Oca, 8, is sold into slavery |
-| | Oca, 13, is sold to a brothel |
-| | Oca, 15, ecapes to the river gaurd |
+| 4016 | Oca, 8, is sold into slavery |
+| 4011 BCE | Oca, 13, is sold again |
+| 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
 | 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
@@ -23,10 +23,10 @@
 | 1416 | Speranza, Antonio di Rossi's sister, is born |
 | 1424 | Caterina, Matteo's mother is born |
 | 1425 | Antonio di Rossi, Antonia and Alesandria's father is born. |
-| 1438 | Maddy is born |
-| 1439 | Barto is born |
-| | Elana di Rossi is born |
-| 1439 | Marco is born |
+| 1434 | Elana di Rossi is born |
+| 1439 | Maddy is born |
+| | Barto is born |
+| | Marco is born |
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
 | 1453 | Lucia is born |
