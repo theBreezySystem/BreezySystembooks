@@ -30,8 +30,8 @@ Elana di Rossi is born |
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
 | 1453 | Lucia is born |
-| 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29,<br>
-and Elana di Rossi, 20. |
+| 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
+| | and Elana di Rossi, 20. |
 | 1457 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
 | 1469 | Marco, 28 and Maria, 17 meet <br> Marco and Matteo, meet, having both been hired for the same ship |
 | 1470 | Marco, 29, and Maria, 18, marry <br> Marco and Matteo goe on a few voyages together and become besties. ||
