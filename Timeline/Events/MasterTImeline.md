@@ -19,10 +19,20 @@
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
+| 1412 | Tomas the fisherman, Matteo's father is born |
+| 1416 | Speranza, Antonio di Rossi's sister, is born |
+| 1424 | Caterina, Matteo's mother is born |
+| 1425 | Antonio di Rossi, Antonia and Alesandria's father is born. |
+| 1438 | Maddy is born |
+| 1439 | Barto is born<br>
+Elana di Rossi is born |
 | 1439 | Marco is born |
-| 1447 | Matteo Born |
+| 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
 | 1453 | Lucia is born |
+| 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29,<br>
+and Elana di Rossi, 20. |
+| 1457 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
 | 1469 | Marco, 28 and Maria, 17 meet <br> Marco and Matteo, meet, having both been hired for the same ship |
 | 1470 | Marco, 29, and Maria, 18, marry <br> Marco and Matteo goe on a few voyages together and become besties. ||
 | 1471 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
