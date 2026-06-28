@@ -24,8 +24,8 @@
 | 1424 | Caterina, Matteo's mother is born |
 | 1425 | Antonio di Rossi, Antonia and Alesandria's father is born. |
 | 1438 | Maddy is born |
-| 1439 | Barto is born<br>
-Elana di Rossi is born |
+| 1439 | Barto is born |
+| | Elana di Rossi is born |
 | 1439 | Marco is born |
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
