@@ -33,12 +33,21 @@
 | 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
 | | and Elana di Rossi, 20. |
 | 1457 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
-| 1469 | Marco, 28 and Maria, 17 meet <br> Marco and Matteo, meet, having both been hired for the same ship |
-| 1470 | Marco, 29, and Maria, 18, marry <br> Marco and Matteo goe on a few voyages together and become besties. ||
+| 1464 | Fiametta is born to Maddy, 20, and an nknown father |
+| 1466 | Maddy, 22, and Barto, 27 meet |
+| 1467 | Maddy, 23, and Barto, 28, marry. Alessandro is 10, Fiametta is 3 |
+| 1469 | Marco, 28 and Maria, 17 meet |
+| | Valentia is born to Barto, and Maddy,  |
+| | Marco and Matteo, meet, having both been hired for the same ship |
+| 1470 | Marco, 29, and Maria, 18, marry |
+| | Marco and Matteo goe on a few voyages together and become besties. |
+| | Vittorio is born to Barto, and Maddy |
 | 1471 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
 | 1473 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
 | | Marco starts climbing rank with the encouragement of Matteo. <br> He invies Matteo to climb iwth him, but Matteo found Lucia and concentrates on her. |
-| 1475 | Matteo, 26 and Lucia, 18, are married. <br> Paolo is born to them and Matteo takes time off. |
+| | Valentino is born to Barto, and Maddy |
+| 1475 | Matteo, 26 and Lucia, 18, are married. |
+| | Paolo is born to them and Matteo takes time off. |
 | 1476 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
 | 1477 | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close |
 | 1478 | Elana is born to Matteo, 29, and Lucia, 21. <br> Matteo takes time off. |
