@@ -40,7 +40,7 @@
 | | Valentia is born to Barto, and Maddy,  |
 | | Marco and Matteo, meet, having both been hired for the same ship |
 | 1470 | Marco, 29, and Maria, 18, marry |
-| | Marco and Matteo goe on a few voyages together and become besties. |
+| | Marco, Matteo and Barto go on a few voyages together and become besties. |
 | | Vittorio is born to Barto, and Maddy |
 | 1471 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
 | 1473 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
