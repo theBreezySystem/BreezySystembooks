@@ -27,6 +27,7 @@
 | 1439 | Maddy is born |
 | | Barto is born |
 | | Marco is born |
+| 1441 | Marco's unnamed brother is born. Marco is 2 |
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
 | 1453 | Lucia is born |
