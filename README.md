@@ -32,9 +32,9 @@ Goal
 ## Jump to
 
 
-## Characters
+## Who
 <details> <!--Begin character dropdown-->
-<summary>👥 </summary>
+<summary>👥 Characters </summary>
 
 <details><!--Begin Individuals dropdown-->
 <summary> Individuals </summary>
@@ -166,9 +166,9 @@ Ship Crew (1475)
 
 
 
-## Lore
+## What
 <details> <!--begin Lore dropdown-->
-<summary> 📜 </summary>
+<summary> 📜 Lore </summary>
 
 
 <details> <!--Begin Timeline and Events dropdown-->
@@ -236,9 +236,9 @@ Rowboat <br>
 
 
 
-## Places
+## Where
 <details> <!--Begin Places dropdown-->
-<summary> 🌍 </summary>
+<summary> 🌍 Places </summary>
 
 Venice 1400-1500's
 Chioggia 1400-1500's
@@ -247,6 +247,10 @@ Dalmation Islands 1400-1500's
 
 </details> <!--end Places dropdown-->
 
+## When 
+<summary> 🗓️ Timeline and Events </summary>
+
+[📅 Timeline ](Timeline/Events/MasterTImeline.md)
 
 
 🧪 [Research](Research/)
