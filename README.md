@@ -15,7 +15,7 @@ This repository contains character biographies, locations, historical timelines,
 
 #### Who
 <details> <!--Begin character dropdown-->
-<summary>👥 </summary>
+<summary>👥 Characters </summary>
 
 
 <details> <!--Begin A dropdown-->
@@ -51,7 +51,7 @@ Cosmino
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> D </summary>
 
 Demetrios
 Diogo
@@ -62,7 +62,7 @@ Domenico
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> E </summary>
 
 Emanuele
 Estêvão
@@ -72,7 +72,7 @@ Ettore
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> F </summary>
 
 Fabrizio
 Filippo
@@ -83,7 +83,7 @@ Filippo
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> G </summary>
 
 Gaspar
 Giovanni
@@ -93,7 +93,7 @@ Guglielmo
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> K </summary>
 
 Kisha
 
@@ -102,7 +102,7 @@ Kisha
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> L </summary>
 
 Leone
 Little Gull
@@ -113,7 +113,7 @@ Lorenzo
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> M </summary>
 
 Marco
 Martim
@@ -122,7 +122,7 @@ Martim
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> N </summary>
 
 Niccolo
 Nico
@@ -133,7 +133,7 @@ Nikandros
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> O </summary>
 
 Oca
 Orlando
@@ -142,7 +142,7 @@ Orlando
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> P </summary>
 
 Paolo
 Pietro
@@ -152,7 +152,7 @@ Pietro
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> R </summary>
 
 Raffaele
 Rinaldo
@@ -163,7 +163,7 @@ Rodrigo
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> S </summary>
 
 Sandro
 Silvestro
@@ -174,7 +174,7 @@ Silvestro
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> T </summary>
 
 Tiberio
 Tomas
@@ -185,7 +185,7 @@ Tommaso
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> V </summary>
 
 Vinchenzo
 
@@ -194,7 +194,7 @@ Vinchenzo
 
 
 <details> <!--Begin A dropdown-->
-<summary> C </summary>
+<summary> Z </summary>
 
 Zorzi
 
