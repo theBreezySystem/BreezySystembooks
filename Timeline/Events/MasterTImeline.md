@@ -50,8 +50,8 @@
 | 1475 | Matteo, 26 and Lucia, 18, are married. |
 | | Paolo is born to them and Matteo takes time off. |
 | 1476 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
-| 1477 | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close |
-| 1478 | Elana is born to Matteo, 29, and Lucia, 21. <br> Matteo takes time off. |
+| 1477 | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close <br> As soon as Matteo is back, Lucia gets pregnant |
+| 1478 | Elana is born to Matteo, 29, and Lucia, 21 at the end of the year. <br> Matteo takes time off. |
 | 1479 | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pnumonia. Marco takes Little Gull. 8. on his first voyage. |
 | 1480 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. <br> Marco has big feels about it and goes on a <br> 6 month journey without Matteo.|
 | | He coms to term with stuff and decides to move everyone to somewhere safer for them. He decides to take shorter trips to stay more connected to his household. |
