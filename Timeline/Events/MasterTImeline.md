@@ -30,6 +30,7 @@
 | 1441 | Marco's unnamed brother is born. Marco is 2 |
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
+| 1449 | Margherita, Matteo's younger sister is born |
 | 1453 | Lucia is born |
 | 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
 | | and Elana di Rossi, 20. |
