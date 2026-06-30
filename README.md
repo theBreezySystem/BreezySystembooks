@@ -275,7 +275,7 @@ Dalmation Islands 1400-1500's <br>
 </details> <!--end Places dropdown-->
 
 #### When 
-<summary> 🗓️ Timeline and Events </summary>
+
 
 [📅 Timeline ](Timeline/Events/MasterTImeline.md)
 
