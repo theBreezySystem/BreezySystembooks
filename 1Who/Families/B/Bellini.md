@@ -26,7 +26,7 @@ Future["Future spouse/children"]
 GM --> C
 
 C --- T
-
+```
 C --> M
 C --> MS
 
@@ -44,4 +44,4 @@ L --> E
 L --> R
 
 MS --> Future
-```
+
