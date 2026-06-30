@@ -1,4 +1,5 @@
 --
+ so Nonna Cat must've been born around 1424, so her mom would have been born around 1394. 
 
 # Master Timeline
 
@@ -16,6 +17,8 @@
 | 4011 BCE | Oca, 13, is sold again |
 | 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
 | 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
+| 1394 | Margherita, Caterina's mother is born. |
+| 1424 | Caterina Bellandi, Matteo's mother is born. |
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
@@ -31,6 +34,7 @@
 | 1447 | Matteo is born to Caterina, 23, and Tomas, 35 |
 | 1448 | Maria is born |
 | 1449 | Margherita, Matteo's younger sister is born |
+| 1451 | Margherita, Matteo's gradmother dies. Matteo is 4 |
 | 1453 | Lucia is born |
 | 1454 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
 | | and Elana di Rossi, 20. |
