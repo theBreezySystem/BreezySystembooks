@@ -4,32 +4,11 @@ Please Note: I am not the best coder<br>
 
 I just needed a spot for my stuff so I'm learning Markdown
 
-###### I Want Claudia to Survive Refrence Pages
+#### I Want Claudia to Survive Refrence Pages
 
 Welcome to the reference pages for the fanfic I Want Claudia to Survive.
 
 This repository contains character biographies, locations, historical timelines, lore, and worldbuilding notes.
-
-
-Goal
-👥 Characters
-├── Individuals
-├── Families
-├── Groups
-└── Relationships
-
-
-📚 Lore
-├── Timeline
-├── History
-├── Sailing Ships
-├── Species
-├── Magic
-└── Culture
-
-🌍 Places
-
-📖 Research
 
 ###### Jump to
 
@@ -38,125 +17,189 @@ Goal
 <details> <!--Begin character dropdown-->
 <summary>👥 </summary>
 
-<details><!--Begin Individuals dropdown-->
-<summary> Individuals </summary>
 
-
-
-<details> <!--Begin elis dropdown-->
-<summary> 🦇 Elis </summary>
-
-[Matteo](Characters/Elis/Matteo.md)
-
-</details> <!--end elis dropdown-->
-
-
-<details> <!--Begin human dropdown-->
-<summary> 👦🏾 Humans </summary>
+<details> <!--Begin A dropdown-->
+<summary> A </summary>
 
 Alessio
 Alexios
 Anselmo
 Antonio
+
+</details> <!--end A dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> B </summary>
+
 Baltasar
+Bambolotta
 Barto
+
+</details> <!--end B dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Ciro
 Cosmino
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Demetrios
 Diogo
 Domenico
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Emanuele
 Estêvão
 Ettore
+
+</details> <!--end C dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Fabrizio
 Filippo
+
+</details> <!--end C dropdown-->
+
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Gaspar
 Giovanni
 Guglielmo
+
+</details> <!--end C dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
+Kisha
+
+
+</details> <!--end C dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Leone
 Little Gull
 Lorenzo
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Marco
 Martim
+
+</details> <!--end C dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Niccolo
 Nico
 Nikandros
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
+Oca
 Orlando
+
+</details> <!--end C dropdown-->
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Paolo
 Pietro
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Raffaele
 Rinaldo
 Rodrigo
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Sandro
 Silvestro
+
+</details> <!--end C dropdown-->
+
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Tiberio
 Tomas
 Tommaso
+
+</details> <!--end C dropdown-->
+
+
+
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
+
 Vinchenzo
 
 
+</details> <!--end C dropdown-->
 
 
->></details> <!--end human dropdown-->
+<details> <!--Begin A dropdown-->
+<summary> C </summary>
 
-
-
-<details> <!--Begin Vampire dropdown-->
-<summary> 🧛 Vampires </summary>
-
-Oca
-
-</details> <!--end vampire dropdown-->
-
-<details><!--begin Others dropdown-->
-<summary> 🐈 Others </summary>
-
-Kisha
 Zorzi
 
-</details><!--end Others dropdown-->
 
-</details> <!--end Individuals dropdown-->
-
-
-
-
-<details><!--Begin Relationhips dropdown-->
-<summary> 💕 Relationships </summary>
-
-Lucia and Matteo <br>
-Lucia and Maria <br>
-Lucia and Marco <br>
-Matteo and Marco <br>
-
-
-</details><!--end Relationships dropdown-->
-
-
-
-<details><!--begin Groups and Families dropdown-->
-<summary> 🎭 Groups and Families </summary>
-
-
-<details><!--Begin Families dropdown-->
-<summary> 👨‍👩‍👧‍👦 ##Families </summary>
-
-[Bellandi](Families/Bellandi.md)
-
-</details><!--end Families dropdown-->
-
-
-<details><!--Begin Grops dropdown-->
-<summary> 👥 Groups </summary>
-
-River Gaurd crew
-San Marco Crew (1483)
-Ship Crew (1475)
-
-</details><!--end Groups dropdown-->
-
-
-</details><!--end the Groups and Families dropdown-->
+</details> <!--end C dropdown-->
 
 
 </details> <!--end Caracters dropdown-->
