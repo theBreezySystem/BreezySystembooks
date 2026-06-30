@@ -4,7 +4,7 @@ Please Note: I am not the best coder<br>
 
 I just needed a spot for my stuff so I'm learning Markdown
 
-## I Want Claudia to Survive Refrence Pages
+###### I Want Claudia to Survive Refrence Pages
 
 Welcome to the reference pages for the fanfic I Want Claudia to Survive.
 
@@ -31,12 +31,12 @@ Goal
 
 📖 Research
 
-## Jump to
+###### Jump to
 
 
-## Who
+#### Who
 <details> <!--Begin character dropdown-->
-<summary>👥 Characters </summary>
+<summary>👥 </summary>
 
 <details><!--Begin Individuals dropdown-->
 <summary> Individuals </summary>
@@ -135,7 +135,7 @@ Matteo and Marco <br>
 
 
 <details><!--begin Groups and Families dropdown-->
-<summary> 🎭 ##Groups and Families </summary>
+<summary> 🎭 Groups and Families </summary>
 
 
 <details><!--Begin Families dropdown-->
@@ -168,7 +168,7 @@ Ship Crew (1475)
 
 
 
-## What
+#### What
 <details> <!--begin Lore dropdown-->
 <summary> 📜 Lore </summary>
 
@@ -238,7 +238,7 @@ Rowboat <br>
 
 
 
-## Where
+#### Where
 <details> <!--Begin Places dropdown-->
 <summary> 🌍 Places </summary>
 
@@ -249,10 +249,11 @@ Dalmation Islands 1400-1500's
 
 </details> <!--end Places dropdown-->
 
-## When 
+#### When 
 <summary> 🗓️ Timeline and Events </summary>
 
 [📅 Timeline ](Timeline/Events/MasterTImeline.md)
 
 
+#### Sources
 🧪 [Research](Research/)
