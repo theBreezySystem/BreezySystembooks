@@ -207,6 +207,46 @@ Zorzi
 
 
 
+<details> <!--Begin Families dropdown-->
+<summary> Families </summary>
+
+Bellini
+
+</details> <!--end Familiesdropdown-->
+
+
+<details> <!--Begin Groups dropdown-->
+<summary> Groups </summary>
+
+San Marco Crew
+
+</details> <!--end Familiesdropdown-->
+
+
+
+<details> <!--Begin Relationships dropdown-->
+<summary> Relationships </summary>
+
+
+
+<details> <!--Begin Romantic and Marriages dropdown-->
+<summary> Romatic and Marriages </summary>
+
+
+
+</details> <!--end Romantic and Marriages dropdown-->
+
+
+<details> <!--Begin Friendships dropdown-->
+<summary> Friendships </summary>
+
+
+
+</details> <!--end Friendships dropdown-->
+
+
+
+</details> <!--end Relationships dropdown-->
 
 
 
@@ -215,64 +255,6 @@ Zorzi
 <details> <!--begin Lore dropdown-->
 <summary> 📜 Lore </summary>
 
-
-<details> <!--Begin Timeline and Events dropdown-->
-<summary> 🗓️ Timeline and Events </summary>
-
-[📅 Timeline ](Timeline/Events/MasterTImeline.md)
-
-<details> <!--Begin Events dropdown-->
-<summary> 📌 Events </summary>
-
-Akasha's attack on the River Gaurd Crew
-
-Sebek Shananigans 
-
-Matteo and Lucia's house burnt down
-
-Failed Boarding of the San Marco
-San Marco's stop in Constantinople
-
-
-</details> <!--end Events dropdown-->
-
-
-</details> <!--end Timeline and Events dropdown-->
-
-
-
-
-
-<details> <!--begin Vampire Lore dropdown-->
-<summary>🧛 Vampire Lore</summary>
-
-</details><!--end vampire lore dropdown-->
-
-
-
-<details><!--begin Elis Lore dropdown-->
-<summary> 🦇 Elis Lore </summary>
-
-
-</details><!--end Elis Lore-->
-
-<details><!--Begin Ships dropdown-->
-<summary> ⛵ Ships </summary>
-
-
-<details><!--Begin Sailing Ships dropdown-->
-<summary> ⛵ Sailing Ships </summary>
-
-San Marco Carrack <br>
-1475 Carrack <br>
-Corsair <br>
-Caravel <br>
-Rowboat <br>
-
-</details><!--end Sailing Ships dropdown-->
-
-
-</details><!--end Ships dropdown-->
 
 
 </details> <!--end Lore dropdown-->
@@ -285,10 +267,10 @@ Rowboat <br>
 <details> <!--Begin Places dropdown-->
 <summary> 🌍 Places </summary>
 
-Venice 1400-1500's
-Chioggia 1400-1500's
-Constantinople 1400-1500's
-Dalmation Islands 1400-1500's
+Venice 1400-1500's <br>
+Chioggia 1400-1500's <br>
+Constantinople 1400-1500's <br>
+Dalmation Islands 1400-1500's <br>
 
 </details> <!--end Places dropdown-->
 
