@@ -24,7 +24,7 @@ ML((" "))
 C["Caterina Bellini"]
 T["Tomas Bellini"]
 
-M["Matteo Bellini"](1Who/Characters/M/Matteo Bellini.md)
+M["Matteo Bellini"]
 S["Margherita Bellini"]
 
 L["Lucia"]
