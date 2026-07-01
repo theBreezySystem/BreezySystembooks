@@ -7,7 +7,7 @@ Margherita
 Caterina Bellini = Tomas Bellini
                  |
             ┌────┴────┐
-Lucia = Matteo     Margherita =
+Lucia = [Matteo](1Who/Characters/M/Matteo Bellini.md)     Margherita =
       |                |
  ┌────┼────┐
 Paolo Elana Rosa
