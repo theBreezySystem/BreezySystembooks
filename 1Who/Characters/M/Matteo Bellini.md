@@ -1,6 +1,6 @@
 [Home](../../../README.md)
 
-##Character Name
+Character Name
 
 Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially Captain Marco.
 
