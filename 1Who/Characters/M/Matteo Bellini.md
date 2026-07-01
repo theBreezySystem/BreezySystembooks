@@ -36,8 +36,10 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
     - [Temperament](#temperament)
   - [Birth and Early Life](#birth-and-early-life)
   - [Life as a Human](#life-as-a-human)
-  - [Life as a Vampire](#life-as-a-vampire)
+  - [Life as an Elis](#life-as-an-Elis)
 - [Relationships](#relationships)
+- [Chronology](#Chronology)
+- [Trivia](#trivia) 
 - [Gallery](#gallery)
 
 ---
@@ -139,12 +141,11 @@ Major life events
 
 ---
 
-## Life After Mortal Life
+## Life as an Elis
 
 Describe their immortal life.
 
-- Turning
-- Maker
+- Awakeing
 - Adaptation
 - Significant historical events
 - Important relationships
