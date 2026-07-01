@@ -13,43 +13,22 @@ Lucia = Matteo   Margherita =
 Paolo Elana Rosa
 ```
 
-```mermaid
-flowchart TD
 
-GM["Margherita<br/>(Unknown surname)"]
+# Generation One
+Margherita
 
-CT((" "))
-ML((" "))
+# Generation Two
+Caterina
+Tomas
 
-C["Caterina Bellini"]
-T["Tomas Bellini"]
+# Generation Three
+Lucia
+[Matteo](../../../../Matteo Bellini.md)
+Margherita
 
-M["Matteo Bellini"]
-S["Margherita Bellini"]
+# Generation Four
+Paolo
+Elana
+Rosa
 
-L["Lucia"]
-
-P["Paolo"]
-E["Elena"]
-R["Rosa"]
-
-Future((" "))
-
-GM --> C
-
-C --> CT
-T --> CT
-
-CT --> M
-CT --> S
-
-M --> ML
-L --> ML
-
-ML --> P
-ML --> E
-ML --> R
-
-S --> Future
-```
 
