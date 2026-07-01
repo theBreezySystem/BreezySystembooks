@@ -11,7 +11,7 @@ Lucia = Matteo   Margherita =
       |                |
  ┌────┼────┐
 Paolo Elana Rosa
-
+```
 
 ```mermaid
 flowchart TD
