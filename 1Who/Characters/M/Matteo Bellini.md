@@ -18,7 +18,7 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
 | **Occupation / Crew Position** | Deckhand |
 | **Current Residence** | San Marco and Venice |
 | **Children** | Paolo (son), Elena (daughter) Rosa (daughter), Bambolotta (god daughter) Marcolino (godson) |
-| **Relationships** | [Bellini line](../../1Who/Families/B/Bellini.md), San Marco Crew,  |
+| **Relationships** | [Bellini line](../../Bellini.md), San Marco Crew,  |
 | **Languages** | Venetian (native), Greek (Conversational), Dalmation (Some) |
 | **Ruggiero's Charm** | Pine Mast Fish|
 
