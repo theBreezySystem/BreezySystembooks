@@ -119,7 +119,13 @@ He has a very lewd sense of humour.
 
 ## Birth and Early Life
 
-Describe their family, childhood, education, culture, and important formative events.
+<p>Born in Chioggia to a fisherman and his wife, Matteo spent a large amount of time on the water as a kid. <br>
+His paternal grandmother, Nonna Cat, raised silkworms on their mulberry bushes and taught Matteo and his sister <br>
+about caring for the plants and silkworms.<br>
+Nonna Cat died when he was 4 and his father died a few years after that, leaving Matteo as the "man of the house," at a young age.<br></p>
+
+<p>Matteo went and worked on merchant ships, eventually meeting Marco. <br>
+  
 
 ---
 
