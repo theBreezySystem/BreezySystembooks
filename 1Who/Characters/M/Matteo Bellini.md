@@ -55,10 +55,11 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
 
 **Appearances**
 
-- Novel
-- Short stories
-- Drafts
-- Bonus content
+Fanfic
+- I Want Claudia to Survive
+Drafts
+-  Mat n Mar
+- The Serinies 
 
 ---
 
@@ -78,32 +79,27 @@ decided to keep him alive forever after that.
 
 Describe:
 
-- Height
-- Build
-- Hair
-- Eyes
-- Skin
-- Distinguishing features
-- Injuries
-- Tattoos
-- Scars
-
+- "A bit tall"
+- "A bit bigger"
 ---
 
 ## Clothing
 
-Describe their preferred clothing, armor, jewelry, weapons, accessories, and how their clothing changes over time.
+Matteo has some nice, tailored clothes from Maddy Serini. 
+ADD MORE- Look up his outfits
 
 ---
 
 ## Thought Patterns
 
-How do they think?
+-Matteo has a crisp, visual memory, often recalling distinct details of people's faces
+-Matteo also thinks very emotionally
 
-- Visual Kinetic Auditorial Conceptual
-- Core values
-- Common thought subjects
-- Phobias
+Matteo is very friendly, he spends extra effort learning people's languages and often asks them about their families
+
+He thinks about his wife, Lucia Bellini, and their kids together constantly.
+
+
 - example sentences
 
 ---
@@ -114,12 +110,10 @@ General overview.
 
 ### Temperament
 
-- Introvert / Extrovert
-- Calm / Impulsive
-- Compassionate / Ruthless
-- Leadership style
-- Sense of humor
-- Habits and quirks
+Matteo is extremely extroverted. He has an insatiatable need for people and their attention. 
+He is very calm, dispite his loudness and compassionate.
+
+He has a very lewd sense of humour. 
 
 ---
 
