@@ -23,8 +23,9 @@ Tomas
 
 ## Generation Three
 Lucia <br>
-[Matteo](../../Characters/M/Matteo Bellini.md)
-[Matteo](1Who/Characters/M/Matteo Bellini.md)
+
+[Matteo](../../Characters/M/Matteo%20Bellini.md)
+
 Margherita <br>
 
 ## Generation Four
