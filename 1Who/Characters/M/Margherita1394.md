@@ -30,10 +30,7 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
 - [Biography](#biography)
   - [Physical Appearance](#physical-appearance)
   - [Personality](#personality)
-    - [Temperament](#temperament)
-  - [Birth and Early Life](#birth-and-early-life)
-  - [Life as a Human](#life-as-a-human)
-  - [Life as an Elis](#life-as-an-Elis)
+  - [Birth and Life](#birth-and-early-life)
 - [Relationships](#relationships)
 - [Chronology](#Chronology)
 - [Trivia](#trivia) 
@@ -62,31 +59,24 @@ Margherita was built as Matteo's grandmother. Little bits here and there added u
 
 ## Physical Appearance
 
-Describe:
+Matteo was 4 when Nonni passed away. He remembered her white hair and her smile. 
 
 
 
 ## Personality
 
-General overview.
-
-### Temperament
-
-
+Nonni Margherita was a practical lady who liked to grow things and tend to things. <br>
+She planted the mulberry bushes for the silkworms and the fig trees. <br>
+She enjoyed gardening. 
 
 ---
 
-## Birth and Early Life
+## Birth and Life
 
-Mar
+Born in 1349<br>
+Margherita started keeping silkworms when her neighbor got into it. <br>
+They both got mullberry bushes and learned how to care for silkworms together. <br>
   
-
----
-
-## Life as a Human
-
-Major life events
-
 
 ---
 
