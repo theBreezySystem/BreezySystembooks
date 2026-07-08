@@ -2,15 +2,15 @@ THe Bellini family tree
 
 
 ```
-Margherita 
-     |
-Caterina Bellini = Tomas Bellini
-                 |
-            ┌────┴────┐
-Lucia = Matteo   Margherita =
-      |                |
- ┌────┼────┐
-Paolo Elana Rosa
+       Margherita 
+            |
+         Caterina Bellini = Tomas Bellini
+                              |
+                      ┌───────┴────────────┐
+Lucia Bellini = Matteo Bellini        Margherita =
+              |                                  |
+     ┌────────────┼──────────────┐
+Paolo Bellini Elana Bellini Rosa Bellini
 ```
 
 
