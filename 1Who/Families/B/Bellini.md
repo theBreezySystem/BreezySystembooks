@@ -7,8 +7,8 @@ THe Bellini family tree
          Caterina Bellini = Tomas Bellini
                               |
                       ┌───────┴────────────┐
-Lucia Bellini = Matteo Bellini        Margherita =
-              |                                  |
+    Lucia Bellini = Matteo Bellini        Margherita =
+                  |                                  |
      ┌────────────┼──────────────┐
 Paolo Bellini Elana Bellini Rosa Bellini
 ```
