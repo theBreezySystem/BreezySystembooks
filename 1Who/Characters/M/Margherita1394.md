@@ -2,7 +2,7 @@
 
 Character Name
 
-Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially Captain Marco.
+Margherita was a tenetatious, kind woman who tended to silkworms and loved gardening. 
 
 ---
 
