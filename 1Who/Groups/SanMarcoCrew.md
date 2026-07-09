@@ -13,7 +13,8 @@ Boatswain Baltasar <br>
 
 Pilot Demetrios <br>
 
-[Supercargo Lorenzo ../](../Characters/L/Lorenzo.md)
+[Lorenzo](../Characters/L/Lorenzo.md)
+../<br>
 
 [Lorenzo](../../Characters/L/Lorenzo.md)
 ../../<br>
