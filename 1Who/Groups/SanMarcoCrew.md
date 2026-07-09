@@ -4,7 +4,10 @@ From Venice to Constantinople <br>
 1483 <br>
 
 Captain Marco <br>
+
 First Mate Tomas <br>
+
+First Mate Niccolo (replaced Tomas in Constantinople) <br>
 
 Boatswain Baltasar <br>
 
@@ -28,6 +31,10 @@ Senior Topman Gabriele <br>
 
 Senior Topman Cosmino <br>
 
+Topman Nikandros <br>
+
+Senior helmsman Rodrigo <br>
+
 Carpenter Diogo <br>
 
 Caulker Estêvão <br>
@@ -39,6 +46,10 @@ Sailmaker (unnamed) <br>
 Cook Barto <br>
 
 Barber/Surgeon Giovanni <br>
+
+Head gunner (joined on the journey back) Alvice <br>
+
+Gunner Guglielmo <br>
 
 10 armed crew (unnamed) <br>
 
@@ -58,6 +69,8 @@ Wounded Deckhand Anselmo <br>
 
 Wounded Deckhand Filippo <br> 
 
+Junior Deckhand Fabrizio <br>
+
 Deckhand others (around 30 unnamed)
 
 Senior cabin boy Sandro <br>
@@ -68,13 +81,18 @@ Cabin boy Pietro <br>
 
 Cabin boy/ Marco's personal charge Little Gull <br>
 
+Ship cat Kisha <br>
+
+Ship cat Zorzi <br>
 
 
 
 
 
+Differences on the way back from COnstantinople: <br>
 
-Back from COnstantinople
--Oca joined
--Niccolo replaced Tomas as First Mate
+-Oca joined <br>
+
+-Niccolo replaced Tomas as First Mate <br>
+
 -Alvice came in as head gunner <br>
