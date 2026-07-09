@@ -18,7 +18,8 @@ Pilot Demetrios <br>
 [Lorenzo](../../Characters/L/Lorenzo.md)
 ../../<br>
 
-[lorenzo ../../../](../../../Characters/L/Lorenzo.md)
+[Lorenzo](../../../Characters/L/Lorenzo.md)
+../../../<br>
 
 [Lorenzo](/Characters/L/Lorenzo.md (root-relative))
 
