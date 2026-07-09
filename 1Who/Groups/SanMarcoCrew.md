@@ -19,6 +19,8 @@ Pilot Demetrios <br>
 
 [lorenzo ../../../](../../../Characters/L/Lorenzo.md)
 
+[Lorenzo](/Characters/L/Lorenzo.md (root-relative))
+
 
 Clerk Gaspar <br>
 
