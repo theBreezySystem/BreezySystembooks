@@ -15,7 +15,8 @@ Pilot Demetrios <br>
 
 [Supercargo Lorenzo ../](../Characters/L/Lorenzo.md)
 
-[lorenzo ../../](../../Characters/L/Lorenzo.md)
+[Lorenzo](../../Characters/L/Lorenzo.md)
+../../<br>
 
 [lorenzo ../../../](../../../Characters/L/Lorenzo.md)
 
