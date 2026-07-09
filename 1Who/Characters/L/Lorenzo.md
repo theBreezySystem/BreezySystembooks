@@ -2,7 +2,9 @@
 
 Lorenzo
 
-Lorenzo is 
+Lorenzo is a profits-first minded representitive of the merchants that own the San Marco carrack ship <br>
+who comes on board on the merchant journies. <br>
+He keeps the merchant's priorities in mind for most of his decision-making, even when he gets sick. 
 
 ---
 
