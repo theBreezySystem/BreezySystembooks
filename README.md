@@ -106,7 +106,7 @@ Kisha
 
 Leone
 Little Gull
-Lorenzo
+[Lorenzo ](1Who/Characters/L/Lorenzo.md)
 
 </details> <!--end C dropdown-->
 
