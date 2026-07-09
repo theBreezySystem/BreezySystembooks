@@ -42,13 +42,21 @@ Barber/Surgeon Giovanni <br>
 
 10 armed crew (unnamed) <br>
 
+Head Rigger Ruggiero <br>
+
 Deckhand Oca <br>
+
+Deckhand Matteo <br>
 
 Deckhand Tiberio <br>
 
 Deckhand Ettore <br>
 
 Deckhand Leone <br>
+
+Wounded Deckhand Anselmo <br>
+
+Wounded Deckhand Filippo <br> 
 
 Deckhand others (around 30 unnamed)
 
