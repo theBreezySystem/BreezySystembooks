@@ -17,6 +17,8 @@ Pilot Demetrios <br>
 
 [Supercargo Lorenzo](../Characters/L/Lorenzo.md)
 
+[lorenzo](../../Characters/L/Lorenzo.md)
+
 Clerk Gaspar <br>
 
 Chaplain Tommaso <br>
