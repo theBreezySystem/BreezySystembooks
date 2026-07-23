@@ -20,6 +20,8 @@
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
+```
+```
 | 1402 | Margherita, Caterina's mother is born. |
 | 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
@@ -38,16 +40,16 @@
 | 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |-->
 | 1460 | Maria is born |
 |<!--| 1461 | Lucia is born |Lucia's old birthyear-->| |
-| 1468 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
+| 1467 | Margherita, Matteo's younger sister is born |
+| 1468 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | and Elana di Rossi, 19. |
-| 1470 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
+| 1470 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 |
 | | Lucia is born |
 |<!--check this math!!-->| |
-| 1467 | Margherita, Matteo's younger sister is born |
 | 1469 | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | 1472 | Fiametta is born to Maddy, 20, and an unknown father |
 | 1474 | Maddy, 22, and Barto, 27 meet |
-| 1475 | Maddy, 23, and Barto, 28, marry. Alessandro is 10, Fiametta is 3 |
+| 1475 | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
 | 1477 | Marco, 28 and Maria, 17 meet |
 | | Valentia is born to Barto, and Maddy,  |
 | | Marco and Matteo, meet, having both been hired for the same ship |
@@ -81,7 +83,7 @@
 
 --
 
-
+TO ADD
 Marco and Matteo go on a few voyages together and become besties
 
 When Marco starts climbing rank, he invites Matteo. But he finds his wife and wants to concentrate on his homelife, eventually needing to return under Marco, now a captian, to pay for his life.
