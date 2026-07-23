@@ -28,16 +28,12 @@
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
 | 1432 | Caterina, Matteo's mother is born |
 | 1433 | Antonio di Rossi, Antonia and Alesandria's father is born. |
-<!--| 1447 | Maddy is born | Maddy's old birtheyar-->
 | | Barto is born |
 | 1449 | Marco is born |
 | | Elana di Rossi is born |
 | 1451 | Marco's unnamed brother is born. Marco is 2 |
 | 1452 | Maddy is born |
 | 1457 | Matteo is born to Caterina, 25, and Tomas, 37 |
-<!--| 1456 | Maria is born | Maria's old birthyear-->
-<!--| 1457 | Margherita, Matteo's younger sister is born |
-| 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |-->
 | 1460 | Maria is born |
 |<!--| 1461 | Lucia is born |Lucia's old birthyear-->| |
 | 1467 | Margherita, Matteo's younger sister is born |
@@ -99,3 +95,9 @@ The kids start all bunking togeher in the main house
 The men come home for a few months and then go on another shorter, few 2 month journey.
 
 Matteo is 34 and Marco is 42 when they ventured
+
+<!--Edits
+| 1447 | Maddy is born | Maddy's old birtheyar
+<!--| 1456 | Maria is born | Maria's old birthyear-->
+<!--| 1457 | Margherita, Matteo's younger sister is born |
+| 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |-->-->
