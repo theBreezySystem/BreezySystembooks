@@ -20,8 +20,8 @@
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
-```
-```
+``
+``
 | 1402 | Margherita, Caterina's mother is born. |
 | 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
@@ -71,7 +71,8 @@
 | 1489 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
 | 1489 |  Oca's Journey |
 | | Amedeo is taken |
-
+``
+``
 ?
 | 1491 | Oca's journey is here. |
 | 1492 | Short trips |
@@ -80,7 +81,6 @@
 | 1495 | Same long journey |
 | 1496 | Oca goes on a few more short trips |
 ?
-
 --
 
 TO ADD
