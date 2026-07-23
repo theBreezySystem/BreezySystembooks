@@ -23,10 +23,9 @@
 ``
 ``
 | 1402 | Margherita, Caterina's mother is born. |
-| 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
-| 1432 | Caterina, Matteo's mother is born |
+| 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1433 | Antonio di Rossi, Antonia and Alesandria's father is born. |
 | | Barto is born |
 | 1449 | Marco is born |
