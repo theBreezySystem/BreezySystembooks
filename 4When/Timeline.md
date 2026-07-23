@@ -17,11 +17,15 @@
 | 4011 BCE | Oca, 13, is sold again |
 | 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
 | 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
-| 1402 | Margherita, Caterina's mother is born. |
-| 1432 | Caterina Bellandi, Matteo's mother is born. |
+
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
+| 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
+| 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
+<p></p>
+| 1402 | Margherita, Caterina's mother is born. |
+| 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
 | 1432 | Caterina, Matteo's mother is born |
@@ -29,17 +33,24 @@
 | 1442 | Elana di Rossi is born |
 | 1447 | Maddy is born |
 | | Barto is born |
-| | Marco is born |
-| 1449 | Marco's unnamed brother is born. Marco is 2 |
-| 1455 | Matteo is born to Caterina, 23, and Tomas, 35 |
-| 1456 | Maria is born |
-| 1457 | Margherita, Matteo's younger sister is born |
-| 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |
-| 1461 | Lucia is born |
+| 1449 | Marco is born |
+| 1451 | Marco's unnamed brother is born. Marco is 2 |
+| 1457 | Matteo is born to Caterina, 23, and Tomas, 35 |
+<!--| 1456 | Maria is born | Maria's old birthyear-->
+<!--| 1457 | Margherita, Matteo's younger sister is born |
+| 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |<-->
+| 1460 | Maria is born |
+<!--| 1461 | Lucia is born |Lucia's old birthyear-->
 | 1462 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
 | | and Elana di Rossi, 20. |
 | 1465 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
-| 1472 | Fiametta is born to Maddy, 20, and an nknown father |
+| | Lucia is born |
+
+<!--check this math!!-->
+| 1467 | Margherita, Matteo's younger sister is born |
+| 1469 | Margherita, Matteo's gradmother dies at age 69. Matteo is 12 |
+
+| 1472 | Fiametta is born to Maddy, 20, and an unknown father |
 | 1474 | Maddy, 22, and Barto, 27 meet |
 | 1475 | Maddy, 23, and Barto, 28, marry. Alessandro is 10, Fiametta is 3 |
 | 1477 | Marco, 28 and Maria, 17 meet |
@@ -56,8 +67,8 @@
 | | Paolo is born to them and Matteo takes time off. |
 | 1484 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
 | 1485 | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close <br> As soon as Matteo is back, Lucia gets pregnant |
-| 1484 | Elana is born to Matteo, 29, and Lucia, 21 at the end of the year. <br> Matteo takes time off. |
-| 1486 | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pnumonia. Marco takes Little Gull. 8. on his first voyage. |
+| 1486 | Elana is born to Matteo, 29, and Lucia, 21 at the end of the year. <br> Matteo takes time off. |
+| 1487 | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pnumonia. Marco takes Little Gull. 8. on his first voyage. |
 | 1488 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. <br> Marco has big feels about it and goes on a <br> 6 month journey without Matteo.|
 | | He coms to term with stuff and decides to move everyone to somewhere safer for them. He decides to take shorter trips to stay more connected to his household. |
 | 1489 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
