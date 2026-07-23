@@ -23,7 +23,6 @@
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
 | 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
 | 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
-| | |
 | 1402 | Margherita, Caterina's mother is born. |
 | 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
