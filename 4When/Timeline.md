@@ -61,7 +61,8 @@
 | 1488 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. <br> Marco has big feels about it and goes on a <br> 6 month journey without Matteo.|
 | | He coms to term with stuff and decides to move everyone to somewhere safer for them. He decides to take shorter trips to stay more connected to his household. |
 | 1489 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
-| 1489 | Amedeo is taken |
+| 1489 |  Oca's Journey |
+| | Amedeo is taken |
 
 ?
 | 1491 | Oca's journey is here. |
