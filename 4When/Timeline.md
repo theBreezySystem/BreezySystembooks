@@ -28,24 +28,25 @@
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
 | 1432 | Caterina, Matteo's mother is born |
 | 1433 | Antonio di Rossi, Antonia and Alesandria's father is born. |
-| 1442 | Elana di Rossi is born |
-| 1447 | Maddy is born |
+<!--| 1447 | Maddy is born | Maddy's old birtheyar-->
 | | Barto is born |
 | 1449 | Marco is born |
+| | Elana di Rossi is born |
 | 1451 | Marco's unnamed brother is born. Marco is 2 |
-| 1457 | Matteo is born to Caterina, 23, and Tomas, 35 |
+| 1452 | Maddy is born |
+| 1457 | Matteo is born to Caterina, 25, and Tomas, 37 |
 <!--| 1456 | Maria is born | Maria's old birthyear-->
 <!--| 1457 | Margherita, Matteo's younger sister is born |
 | 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |-->
 | 1460 | Maria is born |
 |<!--| 1461 | Lucia is born |Lucia's old birthyear-->| |
-| 1462 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
-| | and Elana di Rossi, 20. |
-| 1465 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
+| 1468 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 29, |
+| | and Elana di Rossi, 19. |
+| 1470 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 32 |
 | | Lucia is born |
 |<!--check this math!!-->| |
 | 1467 | Margherita, Matteo's younger sister is born |
-| 1469 | Margherita, Matteo's gradmother dies at age 69. Matteo is 12 |
+| 1469 | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | 1472 | Fiametta is born to Maddy, 20, and an unknown father |
 | 1474 | Maddy, 22, and Barto, 27 meet |
 | 1475 | Maddy, 23, and Barto, 28, marry. Alessandro is 10, Fiametta is 3 |
