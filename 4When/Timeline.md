@@ -8,20 +8,18 @@
 | 4091 BCE | Nebra is born |
 | 4089 BCE | Khonsu is born |
 | 4085 BCE | Hor, Nefer and Kept are born |
-| 4084 | Befa is born |
-| 4083 | Nehy and Hebt are born |
-| 4080 | Jeru is born |
-| 4047 | Ka-Nefer-Khred is born |
-| 4024 | Oca is born |
-| 4016 | Oca, 8, is sold into slavery |
+| 4084 BCE | Befa is born |
+| 4083 BCE | Nehy and Hebt are born |
+| 4080 BCE | Jeru is born |
+| 4047 BCE | Ka-Nefer-Khred is born |
+| 4024 BCE | Oca is born |
+| 4016 BCE | Oca, 8, is sold into slavery |
 | 4011 BCE | Oca, 13, is sold again |
-| 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
-| 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
+| 4009 BCE | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
+| 4004 BCE | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
-| 4009 | Oca, 15, is sold to a brothel, she ecapes to the river gaurd |
-| 4004 | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
 | 1402 | Margherita, Caterina's mother is born. |
 | 1432 | Caterina Bellandi, Matteo's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
