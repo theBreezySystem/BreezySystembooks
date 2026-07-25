@@ -16,6 +16,7 @@
 | 4004 BCE |  | The river gaurd crew are <br> turned during Akadha's wave <br> of indiscriminate creations. |
 | | | Oca spends thousands of years in the sea. |
 | | | Oca comes up and meets "Moonboy." |
+| 248 BCE | 🚼 | Alexis is born |
 | | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
 ```
 ```
