@@ -22,8 +22,8 @@
 | | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
 ```
 ```
-| Date | Symbols | Event |
-|------|---------|-------|
+| Date |  | Event |
+|------|---|-------|
 | 1402 | 🚼 | Margherita, Caterina's mother is born. |
 | 1420 | 🚼 | Tomas the fisherman, Matteo's father is born |
 | 1424 | 🚼 | Speranza, Antonio di Rossi's sister, is born |
