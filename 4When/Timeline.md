@@ -5,7 +5,7 @@
 
 | Date | Symbols | Event |
 |------|---------|-------| 
-| 4091 BCE | Nebra is born |
+| 4091 BCE | 🚼 | Nebra is born |
 | 4089 BCE | Khonsu is born |
 | 4085 BCE | Hor, Nefer and Kept are born |
 | 4084 BCE | Befa is born |
@@ -22,6 +22,8 @@
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
 ```
 ```
+| Date | Symbols | Event |
+|------|---------|-------|
 | 1402 | Margherita, Caterina's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
@@ -37,7 +39,7 @@
 | 1467 | Margherita, Matteo's younger sister is born |
 | 1468 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | and Elana di Rossi, 19. |
-| 1469 | ⚰️ Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
+| 1469 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | 1470 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 |
 | | Lucia is born |
 | 1472 | Fiametta is born to Maddy, 20, and an unknown father |
