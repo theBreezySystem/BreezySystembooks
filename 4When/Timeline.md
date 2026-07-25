@@ -3,8 +3,8 @@
 
 # Master Timeline
 
-| Date | Event |
-|------|-------| 
+| Date | Symbols | Event |
+|------|---------|-------| 
 | 4091 BCE | Nebra is born |
 | 4089 BCE | Khonsu is born |
 | 4085 BCE | Hor, Nefer and Kept are born |
@@ -20,8 +20,8 @@
 | | Oca spends thousands of years in the sea. |
 | | Oca comes up and meets "Moonboy." |
 | | Oca spends thousands more years <br> cultivating a thriving ecosystem of <br> fish near what was Moonboy’s home |
-``
-``
+```
+```
 | 1402 | Margherita, Caterina's mother is born. |
 | 1420 | Tomas the fisherman, Matteo's father is born |
 | 1424 | Speranza, Antonio di Rossi's sister, is born |
@@ -64,8 +64,8 @@
 | 1489 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
 | 1489 |  Oca's Journey |
 | | Amedeo is taken |
-``
-``
+```
+```
 ?
 | 1491 | Oca's journey is here. |
 | 1492 | Short trips |
