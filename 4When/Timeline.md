@@ -38,7 +38,7 @@
 | 1460 | 🚼 | Maria is born |
 | 1467 | 🚼 | Margherita, Matteo's younger sister is born |
 | 1468 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
-| | and Elana di Rossi, 19. |
+| | | and Elana di Rossi, 19. |
 | 1469 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | 1470 | 🚼 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 |
 | 1465 | 🚼 | Lucia is born |
