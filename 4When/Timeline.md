@@ -1,6 +1,6 @@
 # Master Timeline
 
-| Date | | Event |
+| BCE Dates | | Event |
 |------|---|-------| 
 | 4091 BCE | 🚼 | Nebra is born |
 | 4089 BCE | 🚼 | Khonsu is born |
@@ -41,18 +41,18 @@
 | 1465 | 🚼 | Lucia is born |
 | 1472 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
 | 1474 | | Maddy, 22, and Barto, 27 meet |
-| 1475 | | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
+| 1475 | 💍 | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
 | 1477 | | Marco, 28 and Maria, 17 meet |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
 | | ⚓ | Marco and Matteo, meet, having both been hired for the same ship |
-| 1478 | | Marco, 29, and Maria, 18, marry |
+| 1478 | 💍 | Marco, 29, and Maria, 18, marry |
 | | ⚓ | Marco, Matteo and Barto go on a few voyages together and become besties. |
 | | 🚼 | Vittorio is born to Barto, and Maddy |
 | 1479 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
 | 1481 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
 | | | Marco starts climbing rank with the encouragement of Matteo. <br> He invies Matteo to climb iwth him, but Matteo found Lucia and concentrates on her. |
 | | 🚼 | Valentino is born to Barto, and Maddy |
-| 1483 | | Matteo, 26 and Lucia, 18, are married. |
+| 1483 | 💍 | Matteo, 26 and Lucia, 18, are married. |
 | | 🚼 | Paolo is born to them and Matteo takes time off. |
 | 1484 | 🔥 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
 | 1485 | ⚓ | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close <br> As soon as Matteo is back, Lucia gets pregnant |
@@ -68,6 +68,10 @@
 | Key |
 
 | ⚓ = Voyage |
+| 💍 = Married |
+```
+
+<!--
 ?
 | 1491 | Oca's journey is here. |
 | 1492 | Short trips |
