@@ -3,7 +3,7 @@
 
 # Master Timeline
 
-| Date | Symbols | Event |
+| Date | | Event |
 |------|---|-------| 
 | 4091 BCE | 🚼 | Nebra is born |
 | 4089 BCE | Khonsu is born |
