@@ -8,7 +8,7 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
 
 | Information | Value |
 |--------------|-------|
-| **Birth** | 1449 |
+| **Birth** | 1457 |
 | **Birthplace** | Chioggia |
 | **Species** | Elis |
 | **Current Age** | 34 |
@@ -167,18 +167,19 @@ Describe their immortal life.
 | Bambolotta | 1471 | god daughter | Marco's daughter |
 | Marcolino | | god son | Marco's son |
 
----
+----
 
 # Chronology
 
-| Date | Event | Age |
-|------|-------|-----|
-| 1457 | Born | |
-| 1475| Marries Lucia | 18 |
-| | Paolo is born | |
-| 1476 | House burns down | 19 |
-| 1478 | Elana is born | 21 |
-| 1481 | Rosa is born | 24 |
+| Date |   | Event | Age |
+|------|---|-------|-----|
+| 1457 | 🚼 | Born | |
+| 1467 | 🚼 | Margherita, Matteo's younger sister is born
+| 1475| 💍 |Marries Lucia | 18 |
+| | 🚼 | Paolo is born | |
+| 1476 | 🔥 | House burns down | 19 |
+| 1478 | 🚼 | Elana is born | 21 |
+| 1481 |🚼 | Rosa is born | 24 |
 
 ---
 
