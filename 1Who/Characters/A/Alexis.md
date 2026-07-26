@@ -15,3 +15,8 @@ She collects fonts and languates like tinkets
 
 Collects fashion through the ages
 
+Born 248 BCE
+Turned 220 BCE by Jeru when she got stuck in a fire trying to save her handwitten scrolls
+
+
+
