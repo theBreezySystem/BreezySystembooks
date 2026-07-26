@@ -43,9 +43,9 @@
 | 1470 | 🚼 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 |
 | 1465 | 🚼 | Lucia is born |
 | 1472 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
-| 1474 | | Maddy, 22, and Barto, 27 meet |
+| 1474 | 〰️ | Maddy, 22, and Barto, 27 meet |
 | 1475 | 💍 | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
-| 1477 | | Marco, 28 and Maria, 17 meet |
+| 1477 | 〰️ | Marco, 28 and Maria, 17 meet |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
 | | ⚓ | Marco and Matteo, meet, having both been hired for the same ship |
 | 1478 | 💍 | Marco, 29, and Maria, 18, marry |
@@ -68,21 +68,18 @@
 | | | Amedeo is taken |
 ```
 ```
-| Key |
-
-| ⚓ = Voyage |
-| 💍 = Married |
+| Key |||
+| ⚓ =| Voyage |
+| 💍 = | Married |
+| 〰️ = | Meet |
 ```
 
-<!--
-?
-| 1491 | Oca's journey is here. |
+<!--| 1491 | Oca's journey is here. |
 | 1492 | Short trips |
 | 1493 | Short trips |
 | 1494 | Long journey with Oca |
 | 1495 | Same long journey |
 | 1496 | Oca goes on a few more short trips |
-?
 -- -->
 
 TO ADD
