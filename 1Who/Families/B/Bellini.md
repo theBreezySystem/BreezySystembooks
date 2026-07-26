@@ -17,12 +17,11 @@ Paolo Bellini Elana Bellini Rosa Bellini
 
 
 ## Generation One
-[Margherita ](../../Characters/M/Margherita1402.md)
 [Margherita1402](../../Characters/M/Margherita1402.md)
 
 ## Generation Two
-Caterina<br>
 [Caterina](../../Characters/C/CaterinaBellini.md)
+
 Tomas
 
 ## Generation Three
