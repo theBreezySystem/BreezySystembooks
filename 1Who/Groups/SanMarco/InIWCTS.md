@@ -57,7 +57,7 @@ Head Rigger Ruggiero <br>
 
 Deckhand Oca <br>
 
-Deckhand Matteo [Matteo](../../Characters/M/MatteoBellini.md)  <br>
+Deckhand [Matteo](../../Characters/M/MatteoBellini.md)  <br>
 
 Deckhand Tiberio <br>
 
