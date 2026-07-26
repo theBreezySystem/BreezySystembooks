@@ -18,7 +18,7 @@ Margherita was a tenetatious, kind woman who tended to silkworms and loved garde
 | **Occupation** | Homemaker and hobby silkworm keeper |
 | **Current Residence** |  |
 | **Children** | Caterina Bellini (daughter) |
-| **Relationships** | [Bellini line](../../B/Bellini.md), 
+| **Relationships** | [Bellini line](../../B/Bellini.md) | 
 | **Languages** | Venetian (native) |
 
 ---
