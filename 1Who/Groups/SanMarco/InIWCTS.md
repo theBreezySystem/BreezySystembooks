@@ -33,8 +33,6 @@ Senior Topman Cosmino <br>
 
 Topman Nikandros <br>
 
-Senior helmsman Rodrigo <br>
-
 Carpenter Diogo <br>
 
 Caulker Estêvão <br>
