@@ -175,11 +175,11 @@ Describe their immortal life.
 |------|---|-------|-----|
 | 1457 | 🚼 | Born | |
 | 1467 | 🚼 | Margherita, Matteo's younger sister is born
-| 1475| 💍 |Marries Lucia | 18 |
+| 1483 | 💍 | Marries Lucia | 26 |
 | | 🚼 | Paolo is born | |
-| 1476 | 🔥 | House burns down | 19 |
-| 1478 | 🚼 | Elana is born | 21 |
-| 1481 |🚼 | Rosa is born | 24 |
+| 1484 | 🔥 | House burns down | 19 |
+| 1486 | 🚼 | Elana is born | 21 |
+| 1489 |🚼 | Rosa is born | 24 |
 
 ---
 
