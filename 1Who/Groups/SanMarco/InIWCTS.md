@@ -13,7 +13,7 @@ Boatswain Baltasar <br>
 
 Pilot Demetrios <br>
 
-Supercargo [Lorenzo](../Characters/L/Lorenzo.md) <br>
+Supercargo [Lorenzo](../../Characters/L/Lorenzo.md) <br>
 
 Clerk Gaspar <br>
 
