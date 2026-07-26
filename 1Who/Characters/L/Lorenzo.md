@@ -20,7 +20,7 @@ He keeps the merchant's priorities in mind for most of his decision-making, even
 | **Occupation / Crew Position** | Supercargo |
 | **Current Residence** | San Marco Ship and Venice |
 | **Children** |  |
-| **Relationships** | San Marco Crew,  |
+| **Relationships** | [San Marco Crew](../../Groups/SanMarco/InIWCTS.md) |
 | **Languages** | Venetian |
 
 
