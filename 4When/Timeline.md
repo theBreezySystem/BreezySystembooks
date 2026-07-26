@@ -30,10 +30,12 @@
 | | 🚼 | Barto is born |
 | 1449 | 🚼 | Marco is born |
 | | 🚼 | Elana di Rossi is born |
+| | 🚼 | Giuseppe of The Reed is born
 | 1451 | 🚼 | Marco's unnamed brother is born. Marco is 2 |
 | 1452 | 🚼 | Maddy is born |
 | 1457 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
 | 1460 | 🚼 | Maria is born |
+| 1462 | 🚼 | Anastasio of the Reed is born |
 | 1467 | 🚼 | Margherita, Matteo's younger sister is born |
 | 1468 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | | and Elana di Rossi, 19. |
