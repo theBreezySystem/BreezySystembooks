@@ -22,7 +22,7 @@ Caterina is a strudy widow. She was Margherita's only child and was taught
 | **Occupation** | Homemaker |
 | **Current Residence** |  |
 | **Children** | Matteo (son), Margherita (daughter) |
-| **Relationships** | [Bellini line](../../Bellini.md), |
+| **Relationships** | [Bellini line](../../Families/Bellini.md), |
 | **Languages** | Venetian (native) |
 
 ---
