@@ -158,14 +158,14 @@ Describe their immortal life.
 
 | Character | Birth Year | Relationship | Notes |
 |-----------|------------|--------------|-------|
-| Lucia | 1453 | Wife |
-| Paolo | 1475 | Eldest son |
-| Elana | 1478 | Daughter |
-| Rosa | 1481 | Daughter |
-| Marco | 1438 | Partner | Captain |
+| Lucia | 1479 | Wife |
+| Paolo | 1483 | Eldest son |
+| Elana | 1486 | Daughter |
+| Rosa | 1489 | Daughter |
+| Marco | 1449 | Partner | Captain |
 | Maria | 1450 | Metamour | Marco's Wife |
-| Bambolotta | 1471 | god daughter | Marco's daughter |
-| Marcolino | | god son | Marco's son |
+| Bambolotta | 1479 | god daughter | Marco's daughter |
+| Marcolino | 1481 | god son | Marco's son |
 
 ----
 
@@ -174,12 +174,12 @@ Describe their immortal life.
 | Date |   | Event | Age |
 |------|---|-------|-----|
 | 1457 | 🚼 | Born | |
-| 1467 | 🚼 | Margherita, Matteo's younger sister is born
+| 1467 | 🚼 | Margherita, Matteo's younger sister is born | 12 |
 | 1483 | 💍 | Marries Lucia | 26 |
 | | 🚼 | Paolo is born | |
-| 1484 | 🔥 | House burns down | 19 |
-| 1486 | 🚼 | Elana is born | 21 |
-| 1489 |🚼 | Rosa is born | 24 |
+| 1484 | 🔥 | House burns down | 27 |
+| 1486 | 🚼 | Elana is born | 29 |
+| 1489 |🚼 | Rosa is born | 32 |
 
 ---
 
