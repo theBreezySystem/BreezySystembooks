@@ -13,15 +13,15 @@ Caterina is a strudy widow. She was Margherita's only child and was taught
 | Information | Value |
 |--------------|-------|
 | **Birth** | 1402 |
-| **Birthplace** | |
+| **Birthplace** | unknown |
 | **Species** | unknown |
 | **Age at Death** | unknown |
-| **Status** | Deceased |
-| **Nicknames / Aliases** | Nonni |
+| **Status** | Alive |
+| **Nicknames / Aliases** | Nonni Cat |
 | **Literacy** |  No |
 | **Occupation** | Homemaker |
 | **Current Residence** |  |
-| **Children** | Caterina Bellini (daughter) |
+| **Children** | Matteo (son), Margherita (daughter) |
 | **Relationships** | [Bellini line](../../Bellini.md), |
 | **Languages** | Venetian (native) |
 
@@ -55,7 +55,7 @@ Caterina is a strudy widow. She was Margherita's only child and was taught
 
 # Character Inspiration and Development
 
-Margherita was built as Matteo's grandmother. Little bits here and there added up to a whole character. 
+Matteo need a mother to worry about, thus sparked the inspiration for Cat. 
 
 ---
 
@@ -63,13 +63,13 @@ Margherita was built as Matteo's grandmother. Little bits here and there added u
 
 ## Physical Appearance
 
-Matteo was 12 when Nonni passed away. He remembered her white hair and her smile. 
+Nonni Cat has white hair and broad, strong shoulders. 
 
 
 
 ## Personality
 
-Nonni Cat
+Nonni Cat is know for being patient and loving, though blunt and gruff. 
 
 ---
 
@@ -88,6 +88,7 @@ They both got mullberry bushes and learned how to care for silkworms together. <
 | Character | Relationship | Notes |
 |-----------|--------------|-------|
 | Margherita | mother | |
+| unnamed father | Father | |
 | Tomas Bellini | husband | |
 | Matteo | son | |
 | Margherita | daughter | |
@@ -100,25 +101,18 @@ They both got mullberry bushes and learned how to care for silkworms together. <
 
 # Chronology
 
-| Date | Event | Age |
-|------|-------|-----|
-| 1402 | Born | |
-|  | Married Tomas Bellini |
-| | Matteo was born |
-
-# Chronology
-
 | Date |   | Event | Age |
 |------|---|-------|-----|
-| 1402 | 🚼 | Born | |
+| 1432 | 🚼 | Born | |
 | | 💍 | Married Tomas Bellini | |
-| 1457 | 🚼 | Matteo was orn | |
-| 1467 | 🚼 | Margherita, is born | 12 |
-| 1483 | 💍 | Matteo married Lucia | 26 |
-| | 🚼 | Paolo is born | |
-| 1484 | 🔥 | House burns down | 27 |
-| 1486 | 🚼 | Elana is born | 29 |
-| 1489 |🚼 | Rosa is born | 32 |
+| 1457 | 🚼 | Matteo was born | 25 |
+| 1467 | 🚼 | Margherita, is born | 35 |
+| 1483 | 💍 | Matteo married Lucia | 51 |
+| | 🚼 | Paolo is born | 51 |
+| 1484 | 🔥 | House burns down | 52 |
+| 1486 | 🚼 | Elana is born | 54 |
+| 1487 | 💍 | Margherita is married | 55 |
+| 1489 |🚼 | Rosa is born | 57 |
 
 ---
 
