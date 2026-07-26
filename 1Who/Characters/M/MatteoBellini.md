@@ -11,7 +11,7 @@ Matteo is a talkatuve emotional anchor for the crew of the San Marco, especially
 | **Birth** | 1457 |
 | **Birthplace** | Chioggia |
 | **Species** | Elis |
-| **Current Age** | 34 |
+| **Current Age** | 32 |
 | **Status** | Alive |
 | **Nicknames / Aliases** | |
 | **Literacy** |  No |
@@ -100,8 +100,8 @@ Matteo is very friendly, he spends extra effort learning people's languages and 
 
 He thinks about his wife, Lucia Bellini, and their kids together constantly.
 
+"Strong visions of children flooded from Matteo’s thoughts as he continued to babble. "
 
-- example sentences
 
 ---
 
@@ -121,11 +121,11 @@ He has a very lewd sense of humour.
 ## Birth and Early Life
 
 <p>Born in Chioggia to a fisherman and his wife, Matteo spent a large amount of time on the water as a kid. <br>
-His paternal grandmother, Nonna Cat, raised silkworms on their mulberry bushes and taught Matteo and his sister <br>
+His grandmother, raised silkworms on their mulberry bushes and taught Matteo and his sister <br>
 about caring for the plants and silkworms.<br>
-Nonna Cat died when he was 4 and his father died a few years after that, leaving Matteo as the "man of the house," at a young age.<br></p>
+<br></p>
 
-<p>Matteo went and worked on merchant ships, eventually meeting Marco. <br>
+<p>Matteo went and worked on merchant ships in his teens, eventually meeting Marco. <br>
   
 
 ---
@@ -133,24 +133,14 @@ Nonna Cat died when he was 4 and his father died a few years after that, leaving
 ## Life as a Human
 
 Major life events
-
-- Occupation
-- Relationships
-- Travels
-- Achievements
-- Death
+At 20yrs old, Matteo was working as a deckhand when he met Marco 
 
 ---
 
 ## Life as an Elis
 
 Describe their immortal life.
-
-- Awakeing
-- Adaptation
-- Significant historical events
-- Important relationships
-- Modern life
+As of 1489 Matteo is not aware that he is an elis
 
 ---
 
