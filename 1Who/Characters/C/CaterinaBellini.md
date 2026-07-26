@@ -1,8 +1,12 @@
 [Home](../../../README.md)
 
-Margherita 
+Caterina
 
-Margherita was a tenetatious, kind woman who tended to silkworms and loved gardening. 
+Caterina is a strudy widow. She was Margherita's only child and was taught 
+<br> everything Margherita knew about gardening and her silkworm hobby.
+<br> Her unnamed father taught her about fishing. 
+<br> She is known as Nonni Cat to her grandchildrens, whom she adores. 
+<br> She is known for her patience. 
 
 ---
 
@@ -84,7 +88,7 @@ They both got mullberry bushes and learned how to care for silkworms together. <
 | Character | Relationship | Notes |
 |-----------|--------------|-------|
 | Margherita | mother | |
-| Tomas Bellini | husband | Caterina's husband |
+| Tomas Bellini | husband | |
 | Matteo | son | |
 | Margherita | daughter | |
 | Lucia | daughter-in-law | Matteo's wife |
