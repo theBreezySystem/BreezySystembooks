@@ -15,7 +15,7 @@ Margherita was a tenetatious, kind woman who tended to silkworms and loved garde
 | **Status** | Deceased |
 | **Nicknames / Aliases** | Nonni |
 | **Literacy** |  No |
-| **Occupation** | Homemaker and hobby silkworm keeper |
+| **Occupation** | Homemaker |
 | **Current Residence** |  |
 | **Children** | Caterina Bellini (daughter) |
 | **Relationships** | [Bellini line](../../Bellini.md), |
