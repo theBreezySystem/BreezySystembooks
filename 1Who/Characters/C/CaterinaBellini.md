@@ -2,7 +2,7 @@
 
 Caterina
 
-Caterina is a strudy widow. She was Margherita's only child and was taught 
+Caterina is a strudy lady. She was Margherita's only child and was taught 
 <br> everything Margherita knew about gardening and her silkworm hobby.
 <br> Her unnamed father taught her about fishing. 
 <br> She is known as Nonni Cat to her grandchildrens, whom she adores. 
