@@ -23,7 +23,7 @@ Paolo Bellini Elana Bellini Rosa Bellini
 [Caterina](../../Characters/C/CaterinaBellini.md)
 
 
-Tomas
+[Tomas](../../Characters/T/TomasBellini.md)
 
 ## Generation Three
 Lucia <br>
