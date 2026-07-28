@@ -90,12 +90,12 @@ They both got mullberry bushes and learned how to care for silkworms together. <
 | Margherita | mother | |
 | unnamed father | Father | |
 | Tomas Bellini | husband | |
-| Matteo | son | |
+| Matteo Bellini | son | |
 | Margherita | daughter | |
-| Lucia | daughter-in-law | Matteo's wife |
-| Paolo | grandson | Matteo and Lucia's eldest son |
-| Elana | grandaughter | Matteo and Lucia's daughter |
-| Rosa | grandaughter | Matteo and Lucaia's daughter |
+| Lucia Bellini| daughter-in-law | Matteo's wife |
+| Paolo Bellini | grandson | Matteo and Lucia's eldest son |
+| Elana Bellini | grandaughter | Matteo and Lucia's daughter |
+| Rosa Bellini | grandaughter | Matteo and Lucaia's daughter |
 
 ---
 
