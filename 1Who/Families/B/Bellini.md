@@ -26,7 +26,7 @@ Paolo Bellini Elana Bellini Rosa Bellini
 [Tomas](../../Characters/T/TomasBellini.md)
 
 ## Generation Three
-Lucia <br>
+[Lucia](../../Characters/L/LuciaBellini.md) <br>
 
 [Matteo](../../Characters/M/MatteoBellini.md)
 
