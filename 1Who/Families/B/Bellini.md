@@ -34,7 +34,7 @@ Margherita <br>
 
 ## Generation Four
 Paolo <br>
-Elana <br>
+[Elana](../../Characters/E/ElanaBellini.md) <br>
 Rosa <br>
 
 
