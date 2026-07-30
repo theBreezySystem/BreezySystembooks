@@ -33,7 +33,7 @@ Lucia <br>
 Margherita <br>
 
 ## Generation Four
-Paolo <br>
+[Paolo](../../Characters/P/PaoloBellini.md) <br>
 [Elana](../../Characters/E/ElanaBellini.md) <br>
 Rosa <br>
 
