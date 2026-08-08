@@ -4,6 +4,5 @@ Link edited Bellini's on README page
 
 Clean Up:
 
-All the Bellinis
-The S characters
-Nebra
+All the Bellinis <br>
+The River Gaurd Crew <br>
