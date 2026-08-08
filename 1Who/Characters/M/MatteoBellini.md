@@ -86,6 +86,10 @@ Describe:
 
 	Matteo and Paolo were both squares to Oca, however, Matteo towered over the colorful Paolo. Paolo, in fact looked like a small, proportionate version of Matteo, clothed in colors. They both had thick chests, solid legs and forearms and square jawlines."
 
+ Matteo was big in every sense of the word.
+
+Matteo and Paolo were both squares to Oca, however, Matteo towered over the colorful Paolo. Paolo, in fact looked like a smaller version of Matteo. They were both clothed in vibrant colors. They both had thick chests, solid legs and forearms and square jawlines. 
+
 ---
 
 ## Clothing
