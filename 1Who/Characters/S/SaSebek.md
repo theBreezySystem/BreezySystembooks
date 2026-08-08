@@ -1,0 +1,1 @@
+They remembered Sa-Sebek’s face all done up with thick black smudges around his eyes. She remembered Sa-Sebek eating cooked fish on the deck. His hair tied back. She remembered Sa-Sebek smiling viciously as his eyes followed the form of a crocodile beside their boat.
