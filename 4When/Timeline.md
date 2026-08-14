@@ -69,6 +69,7 @@
 | 1489 | 🚼 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
 | 1489 | ⚓ | Oca's Journey |
 | | | Amedeo is taken |
+| 1575 | | The plague hits Venice |
 ```
 ```
 | Key |||
