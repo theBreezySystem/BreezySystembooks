@@ -4,15 +4,17 @@ The Bellini family tree
 
 
 ```
-           Margherita 
-                |
-             Caterina Bellini = Tomas Bellini
-                              |
-                      ┌───────┴────────────┐
-    Lucia Bellini = Matteo Bellini        Margherita =
-                  |                                  |
-     ┌────────────┼──────────────┐
-Paolo Bellini Elana Bellini Rosa Bellini
+                              Margherita    Matteo Bellini - Tomas's Mom 
+                                    |                      |
+                                Caterina Bellini = Tomas Bellini
+           Lucia's Dad- Rosa                     |
+                     |          ┌────────────────┴──────+───────────────┐
+                  Lucia = Matteo Bellini          2nd sister?   Margherita Bellini =
+                        |                                                 |
+     ┌──────────────────┼─────────────────┐
+Paolo Bellini     Elana Bellini     Rosa Bellini
+(named after      (named after
+godfather)         godmother)
 ```
 
 
