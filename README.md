@@ -15,16 +15,16 @@ of a large Venetian merchant carrack, the San Marco. </p>
 <p>One of Curtis and Qingqing's snake sons has grown and found Anna, <br>
 another woman from the human realm. </p>
 
-<p>Fanfic WIPs</p>
-<p>The Ape Girl</p>
+### Fanfic WIPs
+#### The Ape Girl
 <p> Kaylee of the Ape Tribe hides the tribe's secret <br>
 and searches for her future with a scorpion beast man. </p>
 
-<p>Books</p>
-<p>Forbidden</p>
+### Books
+#### Forbidden
 
-<p>Book WIPs</p>
-<p>The Serinis</p>
+### Book WIPs
+#### The Serinis
 <p> Throwing away the expectations and pressures of her <br>
 family of origin, Maddy Serini fights for her independence <br>
 and livelihood in Venice in the 1400's</p>
