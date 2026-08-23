@@ -4,14 +4,14 @@ Please Note: I am not the best coder<br>
 
 I just needed a spot for my stuff so I'm learning Markdown
 
-#### Fanfics
-### I Want Claudia to Survive
+### Fanfics
+#### I Want Claudia to Survive
 <p>An unnamed multiplicity finds found family on a river guard ship until <br>
 Akasha attacks and turns them. They retreated into the ocean for over <br>
 5,000 years. Now, they find themselves navigating life again on the deck <br>
 of a large Venetian merchant carrack, the San Marco. </p>
 
-<p>The Hybrid Snake</p>
+#### The Hybrid Snake
 <p>One of Curtis and Qingqing's snake sons has grown and found Anna, <br>
 another woman from the human realm. </p>
 
