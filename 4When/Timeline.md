@@ -27,10 +27,10 @@
 | 1424 | 🚼 | Speranza, Antonio di Rossi's sister, is born |
 | 1432 | 🚼 | Caterina Bellandi, Matteo's mother is born. |
 | 1433 | 🚼 | Antonio di Rossi, Antonia and Alesandria's father is born. |
-| 1447 | 🚼 | Barto is born |
 | 1449 | 🚼 | Marco is born |
 | | 🚼 | Elana di Rossi is born |
 | | 🚼 | Giuseppe of The Reed is born
+| 1450 | 🚼 | Barto is born |
 | 1451 | 🚼 | Marco's unnamed brother is born. Marco is 2 |
 | 1452 | 🚼 | Maddy is born |
 | 1457 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
