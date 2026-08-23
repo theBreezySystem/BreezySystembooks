@@ -4,6 +4,36 @@ Please Note: I am not the best coder<br>
 
 I just needed a spot for my stuff so I'm learning Markdown
 
+<p>Fanfics</p>
+<p>I Want Claudia to Survive</p>
+<p>An unnamed multiplicity finds found family on a river guard ship until <br>
+Akasha attacks and turns them. They retreated into the ocean for over <br>
+5,000 years. Now, they find themselves navigating life again on the deck <br>
+of a large Venetian merchant carrack, the San Marco. </p>
+
+<p>The Hybrid Snake</p>
+<p>One of Curtis and Qingqing's snake sons has grown and found Anna, <br>
+another woman from the human realm. </p>
+
+<p>Fanfic WIPs</p>
+<p>The Ape Girl</p>
+<p> Kaylee of the Ape Tribe hides the tribe's secret <br>
+and searches for her future with a scorpion beast man. </p>
+
+<p>Books</p>
+<p>Forbidden</p>
+
+<p>Book WIPs</p>
+<p>The Serinis</p>
+<p> Throwing away the expectations and pressures of her <br>
+family of origin, Maddy Serini fights for her independence <br>
+and livelihood in Venice in the 1400's</p>
+
+<p>Unpublished</p>
+<p>Just Coffee</p>
+<p>Finding himself as the legal guardian of his sister, Tim <br>
+carves out a new life for them in a new city. </p>
+
 #### I Want Claudia to Survive Refrence Pages
 
 Welcome to the reference pages for the fanfic I Want Claudia to Survive.
