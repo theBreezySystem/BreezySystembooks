@@ -4,12 +4,12 @@ The (Family name) family tree
 
 
 ```
-                               ?-?
+                               ?-Madelena
                                 |               Pietro - Maria
                           ┌─────+─────────┐           |
        Maddy's mother - Giovanni       Caterina - Marco Ziani               Maria's Dad - Maria's Mom
                       |                          |                                      |
-           Bartolomeo - Madelina         ┌─────────────|────┴─────────┐- - -      ┌─────┴──────
+           Bartolomeo - Madelena         ┌─────────────|────┴─────────┐- - -      ┌─────┴──────
              (Barto)  | (Maddy)       Pietro        Mariano        Marco   =    Maria   
                       |                                                     |                                ┌──────┌─────────+─────────┐──────┐                          ┌─────────+──────┐
 Alessandro Fiametta Valentia Viterio Valentino                  Lucia             Marco       
