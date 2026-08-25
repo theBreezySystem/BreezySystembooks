@@ -52,7 +52,6 @@
 | 1475 | 💍 | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
 | 1477 | 〰️ | Marco, 28 and Maria, 17 meet |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
-<!--| | ⚓ | Marco and Matteo, meet, having both been hired for the same ship |-->
 | 1478 | 💍 | Marco, 29, and Maria, 18, marry |
 | | ⚓ | Marco, Matteo and Barto go on a few voyages together and become besties. |
 | | 🚼 | Vittorio is born to Barto, and Maddy |
@@ -114,3 +113,4 @@ Matteo is 34 and Marco is 42 when they ventured
 <!--| 1456 | Maria is born | Maria's old birthyear-->
 <!--| 1457 | Margherita, Matteo's younger sister is born |
 | 1459 | Margherita, Matteo's gradmother dies. Matteo is 4 |-->-->
+<!--| 1477 | ⚓ | Marco and Matteo, meet, having both been hired for the same ship |-->
