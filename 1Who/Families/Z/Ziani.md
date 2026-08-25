@@ -4,16 +4,16 @@ The (Family name) family tree
 
 
 ```
-           Great grandparent 
-                |
-             Marco Ziani  = Lucia                 Maria's Dad - Maria's Mom
-                              |                               |
-            ┌─────────────────┴────────────┐            ┌─────┴──────
- Marco's oldest bro  Marco's second bro   Marco   =    Maria      aunt or uncle  = aunt or uncle
-                                                  |                                  |
-                                        ┌─────────+──────┐
-                                   Lucia             Marco       
-                               (Bambolotta)        (Marcolino)
+                               ?-?
+                                |               Pietro - Maria
+                          ┌─────+─────────┐           |
+       Maddy's mother - Giovanni       Caterina - Marco Ziani               Maria's Dad - Maria's Mom
+                      |                          |                                      |
+           Bartolomeo - Madelina         ┌─────────────|────┴─────────┐- - -      ┌─────┴──────
+             (Barto)  | (Maddy)       Pietro        Mariano        Marco   =    Maria   
+                      |                                                     |                                     ┌──────┌─────────+─────────┐──────┐                          ┌─────────+──────┐
+Alessandro Fiametta Valentia Viterio Valentino                  Lucia             Marco       
+                                                          (Bambolotta)        (Marcolino)
 ```
 
 
