@@ -5,8 +5,8 @@ The (Family name) family tree
 
 ```
                                ?-Madelena
-                                |               Pietro - Maria
-                          ┌─────+─────────┐           |
+             ? - Lucia             |               Pietro - Maria
+               |           ┌─────+─────────┐           |
        Maddy's mother - Giovanni       Caterina - Marco Ziani               Maria's Dad - Maria's Mom
                       |                          |                                      |
            Bartolomeo - Madelena         ┌─────────────|────┴─────────┐- - -      ┌─────┴──────
