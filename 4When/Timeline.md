@@ -36,10 +36,10 @@
 | 1457 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
 | 1460 | 🚼 | Maria is born |
 | 1462 | 🚼 | Anastasio of the Reed is born |
+| 1466 | 〰️ | Maddy and Barto meet in the Spring|
 | 1467 | 🚼 | Margherita, Matteo's younger sister is born |
 | 1468 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | | and Elana di Rossi, 19. |
-| | 〰️ | Maddy and Barto meet in the Spring|
 | 1469 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | | | Antonio assaults Maddy, 17, in Aug.|
 | | | Maddy escapes to Maria's house |
@@ -48,8 +48,7 @@
 | | ⚓ | Marco, 22, and Barto, 21, meet and realize they both know Maddy. |
 | 1465 | 🚼 | Lucia is born |
 | 1472 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
-| 1474 | 〰️ | Maddy, 22, and Barto, 27 meet |
-| 1475 | 💍 | Maddy, 23, and Barto, 28, marry. Alessandro is 5, Fiametta is 3 |
+|  | 💍 | Maddy, and Barto, marry. Alessandro is 5, Fiametta is 3 |
 | 1477 | 〰️ | Marco, 28 and Maria, 17 meet |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
 | 1478 | 💍 | Marco, 29, and Maria, 18, marry |
