@@ -11,7 +11,8 @@ The (Family name) family tree
                       |                          |                                      |
            Bartolomeo - Madelena         ┌─────────────|────┴─────────┐- - -      ┌─────┴──────
              (Barto)  | (Maddy)       Pietro        Mariano        Marco   =    Maria   
-                      |                                                     |                                ┌──────┌─────────+─────────┐──────┐                          ┌─────────+──────┐
+                      |                                                     |
+     ┌──────┌─────────+─────────┐──────┐                          ┌─────────+──────┐
 Alessandro Fiametta Valentia Viterio Valentino                  Lucia             Marco       
                                                           (Bambolotta)        (Marcolino)
 ```
