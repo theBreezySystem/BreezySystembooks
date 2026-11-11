@@ -61,8 +61,9 @@
 | 1488 | 💍 | Marco, 29, and Maria, 18, marry |
 | | ⚓ | Marco, Matteo and Barto go on a few voyages together and become besties. |
 | | 🚼 | Vittorio is born to Barto, and Maddy |
-| 1489 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
-| 1491 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
+| 1489 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19.  Matteo is chosen as  godfather.  |
+| 1491 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21 |
+| | | 〰️ | Matteo, 24, and Lucia 16, meet |
 | | | Marco starts climbing rank with the encouragement of Matteo. <br> He invites Matteo to climb with him, but Matteo found Lucia and concentrates on her. |
 | | 🚼 | Valentino is born to Barto, and Maddy |
 | 1493 | 💍 | Matteo, 26 and Lucia, 18, are married. |
