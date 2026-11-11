@@ -1,3 +1,15 @@
+Maddy 14sih
+working selling fish at the stall
+-Introcuced Alessandro's dad, He's like 20ish? Bing a successful guy
+she's like "ooooo that's a 'somebody'" 
+he buys fish
+a boy buys fish
+Barto shows up 
+He's all twitterpated, she's chatty
+He's like "I'll buy the gobies." He backtracks and says he cooks more than fish- offfers to take her to tbe baery
+-she imediatly is like "YOU BETTER!"
+He bluses 
+
 Spring of 1468
 
 “-and I mean, I guess that’s just what I think. I just don’t get it. Maybe, I’m just tired of fish, you know? It’s just, overrated. I guess.” Maddy looked up at the boy, her eyes pinched a little and she tucked her lips in. “I’m sorry, what did you want to buy?”
