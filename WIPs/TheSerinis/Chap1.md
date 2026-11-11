@@ -51,7 +51,7 @@ Aunt Cat handed him a bowl of fish soup to.
 
 “I’m so happy Mariano and Baby Marco are doing so well. I’m eager for word from Pietro.”
 
-“It’ll come dear. I don’t think we can call him ‘Baby Marco’ anymore. He’s a grown 17 year old man now!”
+“Word from Pietro will come dear. I don’t think we can call, uh, him ‘Baby Marco’ anymore. He’s a grown 17 year old man now!”
 
 Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
 
