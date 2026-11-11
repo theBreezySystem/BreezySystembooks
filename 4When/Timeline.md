@@ -22,61 +22,62 @@
 ```
 | Date |  | Event |
 |------|---|-------|
-| 1402 | 🚼 | Margherita, Caterina's mother is born. |
-| 1420 | 🚼 | Tomas the fisherman, Matteo's father is born |
-| 1424 | 🚼 | Speranza, Antonio di Rossi's sister, is born |
-| 1432 | 🚼 | Caterina Bellandi, Matteo's mother is born. |
-| 1433 | 🚼 | Antonio di Rossi, Antonia and Alesandria's father is born. |
-| 1449 | 🚼 | Marco is born |
+| 1412 | 🚼 | Margherita, Caterina's mother is born. |
+| 1430 | 🚼 | Tomas the fisherman, Matteo's father is born |
+| 1434 | 🚼 | Speranza, Antonio di Rossi's sister, is born |
+| 1442 | 🚼 | Caterina Bellandi, Matteo's mother is born. |
+| 1443 | 🚼 | Antonio di Rossi, Antonia and Alesandria's father is born. |
+| 1459 | 🚼 | Marco is born |
 | | 🚼 | Elana di Rossi is born |
 | | 🚼 | Giuseppe of The Reed is born
-| 1450 | 🚼 | Barto is born |
-| 1451 | 🚼 | Marco's unnamed brother is born. Marco is 2 |
-| 1452 | 🚼 | Maddy is born |
-| 1457 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
-| 1460 | 🚼 | Maria is born |
+| 1460 | 🚼 | Barto is born |
+| 1461 | 🚼 | Marco's unnamed brother is born. Marco is 2 |
+| 1462 | 🚼 | Maddy is born |
+| 1467 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
+| 1470 | 🚼 | Maria is born |
 | | ✨ | 	Marco, 11, refuses a bribe; a merchant notices. |
-| 1462 | 🚼 | Anastasio of the Reed is born |
-| 1464 | ✨ | 	Marco, 15, becomes a cabin boy to the merchant that noticed him earlier |
-| 1465 | ✨ | Marco, 16, becomes lead cabin boy |
-| 1466 | 〰️ | Maddy and Barto meet in the Spring |
+| 1472 | 🚼 | Anastasio of the Reed is born |
+| 1474 | ✨ | 	Marco, 15, becomes a cabin boy to the merchant that noticed him earlier |
+| 1475 | ✨ | Marco, 16, becomes lead cabin boy |
+| 1475 | 🚼 | Lucia is born |
+| 1476 | 〰️ | Maddy and Barto meet in the Spring |
 | | ✨ | Marco, 17, becomes a deckhand |
-| 1467 | 🚼 | Margherita, Matteo's younger sister is born |
-| 1468 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
+| 1477 | 🚼 | Margherita, Matteo's younger sister is born |
+| 1478 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | | and Elana di Rossi, 19. |
-| 1469 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
+| 1479 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | | | Antonio assaults Maddy, 17, in Aug.|
 | | | Maddy escapes to Maria's house |
 | | ✨ | Marco, 20, is regarded as an able seaman | 
-| 1470 | 🚼 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 in May |
-| 1471 | ⚓ | Marco, 22, and Matteo, 14, meet, having both been hired for the same ship. |
+| 1480 | 🚼 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 in May |
+| 1481 | ⚓ | Marco, 22, and Matteo, 14, meet, having both been hired for the same ship. |
 | | ⚓ | Marco, 22, and Barto, 21, meet and realize they both know Maddy. Marco is on the path to become a clerk |
-| 1465 | 🚼 | Lucia is born |
-| 1472 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
+| 1482 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
 |  | 💍 | Maddy, and Barto, marry. Alessandro is 5, Fiametta is 3 |
-| 1476 | A crew member dies from rigging Marco, 27, complained about. The clerk writes it down and Marco questions his trajectory. Matteo tells him "be captain." |
-| 1477 | 〰️ | Marco, 28 and Maria, 17 meet |
+| 1486 | | A crew member dies from rigging Marco, 27, complained about. <br> The clerk writes it down and Marco questions his trajectory.<br> Matteo tells him "be captain." |
+| | 〰️ | Antonio "Black Gull," joins Marco, 27, and Matteo's friend group. | 
+| 1487 | 〰️ | Marco, 28 and Maria, 17 are introduced through their arranged marriage |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
-| 1478 | 💍 | Marco, 29, and Maria, 18, marry |
+| 1488 | 💍 | Marco, 29, and Maria, 18, marry |
 | | ⚓ | Marco, Matteo and Barto go on a few voyages together and become besties. |
 | | 🚼 | Vittorio is born to Barto, and Maddy |
-| 1479 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
-| 1481 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
-| | | Marco starts climbing rank with the encouragement of Matteo. <br> He invies Matteo to climb iwth him, but Matteo found Lucia and concentrates on her. |
+| 1489 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19 |
+| 1491 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21. <br> Matteo, 24, and Lucia 16, meet |
+| | | Marco starts climbing rank with the encouragement of Matteo. <br> He invites Matteo to climb with him, but Matteo found Lucia and concentrates on her. |
 | | 🚼 | Valentino is born to Barto, and Maddy |
-| 1483 | 💍 | Matteo, 26 and Lucia, 18, are married. |
+| 1493 | 💍 | Matteo, 26 and Lucia, 18, are married. |
 | | 🚼 | Paolo is born to them and Matteo takes time off. |
-| 1484 | 🔥 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
-| 1485 | ⚓ | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close <br> As soon as Matteo is back, Lucia gets pregnant |
-| 1486 | 🚼 | Elana is born to Matteo, 29, and Lucia, 21 at the end of the year. <br> Matteo takes time off. |
-| 1487 | ⚓ | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pnumonia. Marco takes Little Gull. 8. on his first voyage. |
+| 1494 | 🔥 | Matteo and Lucia's house burns down. <br> Marco invites them to stay with him |
+| 1495 | ⚓ | Matteo and Marco go off on a 10 month journey. <br> While gone, Maria and Lucia get close <br> As soon as Matteo is back, Lucia gets pregnant |
+| 1496 | 🚼 | Elana is born to Matteo, 29, and Lucia, 21 at the end of the year. <br> Matteo takes time off. |
+| 1497 | ⚓ | Marco, 38 and Matteo, 30, go on two shorter journies. <br> Antonio retires after a close call with pneumonia. Marco takes Little Gull. 8. on his first voyage. |
 | | 💍 | Margherita, 20, Matteo's little sister is married | |
-| 1488 | 💞 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. |
+| 1498 | 💞 | Marco, 39, Matteo, 31, and Lucia 23, are intimate together. |
 | | | <br> Marco has big feels about it and goes on a <br> 6 month journey without Matteo. |
 | | | He coms to term with stuff and decides to move everyone to somewhere safer for them. |
 | | | <br> He decides to take shorter trips to stay more connected to his household. |
-| 1489 | 🚼 | Rosa is born, concieved while Marco was on his 6 mo journey. <br> He also has feels about that. |
-| 1489 | ⚓ | Oca's Journey |
+| 1499 | 🚼 | Rosa is born, conceived while Marco was on his 6 mo journey. <br> He also has feels about that. |
+| 1499 | ⚓ | Oca's Journey |
 | | | Amedeo is taken |
 | 1575 | | The plague hits Venice |
 ```
