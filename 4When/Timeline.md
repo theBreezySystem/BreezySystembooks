@@ -54,7 +54,7 @@
 | | ⚓ | Marco, 22, and Barto, 21, meet and realize they both know Maddy. Marco is on the path to become a clerk |
 | 1482 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
 |  | 💍 | Maddy, and Barto, marry. Alessandro is 5, Fiametta is 3 |
-| 1486 | | A crew member dies from rigging Marco, 27, complained about. <br> The clerk writes it down and Marco questions his trajectory.<br> Matteo tells him "be captain." |
+| 1486 | ✨ | A crew member dies from rigging Marco, 27, complained about. <br> The clerk writes it down and Marco questions his trajectory.<br> Matteo tells him "be captain." |
 | | 〰️ | Antonio "Black Gull," joins Marco, 27, and Matteo's friend group. | 
 | 1487 | 〰️ | Marco, 28 and Maria, 17 are introduced through their arranged marriage |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
@@ -64,7 +64,7 @@
 | 1489 | 🚼 | Lucia (Bambolotta) is born to Marco, 30 and Maria, 19.  Matteo is chosen as  godfather.  |
 | 1491 | 🚼 | Marcolino is born to Marco, 32, and Maria, 21 |
 | | 〰️ | Matteo, 24, and Lucia 16, meet |
-| | | Marco starts climbing rank with the encouragement of Matteo. <br> He invites Matteo to climb with him, but Matteo found Lucia and concentrates on her. |
+| | ✨ | Marco starts climbing rank with the encouragement of Matteo. <br> He invites Matteo to climb with him, but Matteo found Lucia and concentrates on her. |
 | | 🚼 | Valentino is born to Barto, and Maddy |
 | 1493 | 💍 | Matteo, 26 and Lucia, 18, are married. |
 | | 🚼 | Paolo is born to them and Matteo takes time off. |
@@ -87,6 +87,7 @@
 | ⚓ =| Voyage |
 | 💍 = | Married |
 | 〰️ = | Meet |
+|  ✨ = | Character Trajectory |
 ```
 
 <!--
