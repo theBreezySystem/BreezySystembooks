@@ -1,11 +1,4 @@
-Maddy was with her aunt and Uncle
-Aunt and Uncle came back from church having had a letter read from their third son
--Maddy is like that's awesome
--Maddy my dad married a mermaid
-aunt is like that's enough.
-
-
-1466
+1474
 
 Maddy sat outside, just out of sight from the door. It was still light out. She could hear her aunt and uncle chatting happily inside.
 
@@ -52,7 +45,7 @@ Aunt Cat handed him a bowl of fish soup to.
 “I’m so happy Mariano and Baby Marco are doing so well. I’m eager for word from Pietro.”
 
 
-Spring of 1468
+Spring of 1476
 
 “-and I mean, I guess that’s just what I think. I just don’t get it. Maybe, I’m just tired of fish, you know? It’s just, overrated. I guess.” Maddy looked up at the boy, her eyes pinched a little and she tucked her lips in. “I’m sorry, what did you want to buy?”
 
