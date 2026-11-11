@@ -55,7 +55,7 @@ She silently collected the fish and handed them over. She was deep in thought.
 
 He’d already paid, so when he lingered after she handed him the fish, she looked up at him in irritated confusion.
 
-“I-I make other stuff too. We don’t havbe fish all the time. Rice and peas. Stews. I’ve even started making my own mulled wines. Well, mixing the spices at least.”
+“I-I make other stuff too. We don’t have fish all the time. Rice and peas. Stews. I’ve even started making my own mulled wines. Well, mixing the spices at least.”
 
 “Yeah?” She challenged.
 
@@ -79,8 +79,82 @@ Well, with her uncle being a fisherman and all, she felt like she absolutely alw
 Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
 
 
+Maddy was at the docks a little over a week later.
+
+She was staring wistfully out to sea when she caught a glimpse of a ship.
+
+Her parents' faces flashed in her mind and her stomach flipped for a second.
+
+"They probably aren't on that ship." She said to herself. 
+
+Someone from the village saw the ship to because they started shouting. Soon, townsfolk were about, waiting happily.
 
 
+Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all that.
+Maddy stared quietly at her aunt's face. Yeah. She looked like her father a bit. They both had big, wide cheeks. 
+
+Baby Marco was on that ship. He came to shore in a little rowboat and everyone hugged him when he jumped off.
+
+It was hours later when there was no possibility of anyone else Maddy recognized coming to shore that Maddy was able to calm down and actually be there with her cousin. 
+
+It was early evening. The bright, happy sunshine reflected off the sea in it's lazy ripples.
+
+"What's it like?" Maddy asked Baby Marco.
+
+"It's really nice." Baby Marco leaned back, sinking his weight onto his shoulders. "I like that it's more than the other cabin boys listing to me now. I can say like, 'this needs to be tighter,' and someone usually comes and fixes it. I guess it feels safe?"
+
+Maddy nodded. 
+
+"What's it like, being so far out on the water? Like, everyday?"
+
+Baby Marco laughed. 
+
+"It feels, I dunno, wiggly?" He laughed again
+
+She smacked his arm affectionatly. 
+
+"I'd like to feel it." Her eyes wandered out again. "I would feel so free on the water."
+
+His eyebrows rose up.
+
+A pair of boys from the villiage walked past behind them. One of them faked a gagging sound.
+
+Maddy's face scrunched up. She darted to the shoreline and dunked her hands in, her sleeves getting soaked as she did. She ran after the boys and threw her handful of water at them. 
+
+The boys ran away laughing. 
+"Fish girl!" One called.
+
+Maddy's face was bright red when she plopped back down next to Baby Marco.
+
+He wasn't smiling. 
+
+"Maddy, you know, it might be time to be, you know, a bit more . . . proper. You might want to find someone soon and-" He saw her nose wrinkle.
+
+She sighed, looking out at the water. 
+
+"Naw, those boys." She shrugged. "I don't let them bother me. Besides, I'm going to be-" Her eyes wandered around for a second. She squinted out past the water, her bottom lip pulled up in a determined frown. "I'm going to be, someone that someone rememebers someday." She nodded at that, apparantly somewhat pleased with her own words. 
+
+He looked over at her.
+
+Her knuckles went to her lips.
+
+"Since you're going to be a clerk, do they teach you to raed?"
+
+He nodded.
+
+She nodded back.
+
+"Can you teach me?"
+
+He snorted. "You'll be a woman!"
+
+She snapped her gaze back out to the water.
+
+He shook his head. "Yeah sure Maddy. I'll show you what I know. Just promise that." But he couldn't think of a promise. 
+
+She looked back at him.
+
+"Nevermind, I guess." And he found a stick and showed her letters in the sand. 
 Marco is home visiting his parents- Maddy's aunt and uncle
 Maddy and him like, do a bonding thing. Maybe fishing? Maybe cleaning ghoti?
 That boy that Maddy sold fish to and she like, sticks her tounge out or something
