@@ -78,6 +78,7 @@ Well, with her uncle being a fisherman and all, she felt like she absolutely alw
 
 Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
 
+Chapter 3 Baby Marco's Visit
 
 Maddy was at the docks a little over a week later.
 
