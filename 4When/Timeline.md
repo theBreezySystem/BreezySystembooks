@@ -35,20 +35,26 @@
 | 1452 | 🚼 | Maddy is born |
 | 1457 | 🚼 | Matteo is born to Caterina, 25, and Tomas, 37 |
 | 1460 | 🚼 | Maria is born |
+| | ✨ | 	Marco, 11, refuses a bribe; a merchant notices. |
 | 1462 | 🚼 | Anastasio of the Reed is born |
-| 1466 | 〰️ | Maddy and Barto meet in the Spring|
+| 1464 | ✨ | 	Marco, 15, becomes a cabin boy to the merchant that noticed him earlier |
+| 1465 | ✨ | Marco, 16, becomes lead cabin boy |
+| 1466 | 〰️ | Maddy and Barto meet in the Spring |
+| | ✨ | Marco, 17, becomes a deckhand |
 | 1467 | 🚼 | Margherita, Matteo's younger sister is born |
 | 1468 | 🚼 | Twins Antonia and Alesandria di Rossi are born to Antonio di Rossi, 35, |
 | | | and Elana di Rossi, 19. |
 | 1469 | ⚰️ | Margherita, Matteo's gradmother dies at age 67. Matteo is 12 |
 | | | Antonio assaults Maddy, 17, in Aug.|
 | | | Maddy escapes to Maria's house |
+| | ✨ | Marco, 20, is regarded as an able seaman | 
 | 1470 | 🚼 | Alessandro Sereni is born to Maddy Serini, 18, and Antonio de Rossi, 37 in May |
 | 1471 | ⚓ | Marco, 22, and Matteo, 14, meet, having both been hired for the same ship. |
-| | ⚓ | Marco, 22, and Barto, 21, meet and realize they both know Maddy. |
+| | ⚓ | Marco, 22, and Barto, 21, meet and realize they both know Maddy. Marco is on the path to become a clerk |
 | 1465 | 🚼 | Lucia is born |
 | 1472 | 🚼 | Fiametta is born to Maddy, 20, and an unknown father |
 |  | 💍 | Maddy, and Barto, marry. Alessandro is 5, Fiametta is 3 |
+| 1476 | A crew member dies from rigging Marco, 27, complained about. The clerk writes it down and Marco questions his trajectory. Matteo tells him "be captain." |
 | 1477 | 〰️ | Marco, 28 and Maria, 17 meet |
 | | 🚼 | Valentia is born to Barto, and Maddy,  |
 | 1478 | 💍 | Marco, 29, and Maria, 18, marry |
