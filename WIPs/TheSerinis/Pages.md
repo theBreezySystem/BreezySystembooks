@@ -44,6 +44,11 @@ Aunt Cat handed him a bowl of fish soup to.
 
 “I’m so happy Mariano and Baby Marco are doing so well. I’m eager for word from Pietro.”
 
+“Word from Pietro will come dear. I don’t think we can call, uh, him ‘Baby Marco’ anymore. He’s a grown 17 year old man now!”
+
+Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
+
+
 
 Spring of 1476
 
@@ -74,9 +79,6 @@ Maddy wiped her hands on a rag. She hated wiping the fish smell off on her apron
 Well, with her uncle being a fisherman and all, she felt like she absolutely always smelled like fish, it just made her feel more smelly.
 
 
-“Word from Pietro will come dear. I don’t think we can call, uh, him ‘Baby Marco’ anymore. He’s a grown 17 year old man now!”
-
-Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
 
 Chapter 3 Baby Marco's Visit
 
@@ -91,7 +93,7 @@ Her parents' faces flashed in her mind and her stomach flipped for a second.
 Someone from the village saw the ship to because they started shouting. Soon, townsfolk were about, waiting happily.
 
 
-Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all that.
+Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all of that.
 Maddy stared quietly at her aunt's face. Yeah. She looked like her father a bit. They both had big, wide cheeks. 
 
 Baby Marco was on that ship. He came to shore in a little rowboat and everyone hugged him when he jumped off.
@@ -139,7 +141,7 @@ He looked over at her.
 
 Her knuckles went to her lips.
 
-"Since you're going to be a clerk, do they teach you to raed?"
+"Since you're going to be a clerk, do they teach you to read?"
 
 He nodded.
 
@@ -151,15 +153,28 @@ He snorted. "You'll be a woman!"
 
 She snapped her gaze back out to the water.
 
-He shook his head. "Yeah sure Maddy. I'll show you what I know. Just promise that." But he couldn't think of a promise. 
+"Maybe I'll be a mermaid when I grow up."
+
+He shook his head. "You know, it really bothers Mom when you say that mermaid stuff."
+
+Maddy didn't stop looking out to sea.
+
+"Yeah sure Maddy." Baby Marco said, pitching himself forward. "I'll show you what I know. Just promise that." But he couldn't think of a promise. 
 
 She looked back at him.
 
-"Nevermind, I guess." And he found a stick and showed her letters in the sand. 
-Marco is home visiting his parents- Maddy's aunt and uncle
-Maddy and him like, do a bonding thing. Maybe fishing? Maybe cleaning ghoti?
-That boy that Maddy sold fish to and she like, sticks her tounge out or something
-Marco is like Why?
-She sticks her tongue out at him to
-She talks about her mermaid mom and Marco is like, that's making my mom sad when you do that.
+
+ADD MORE
+
+There was however, a different familiar face. 
+
+Excitement rippled through her.
+
+"Hey!" She called.
+
+He jumped. The clatter rose above the busy sounds of the dock. The other barrels rocked and settled. The boy was despertly tryig to steady them, his hands forzen in the air. 
+
+"You siad you'd take me to the bakery!" 
+
+He nodded at her with wide eyes.
 
