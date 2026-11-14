@@ -70,7 +70,22 @@ It was that next spring when her uncle had her start selling fish with him.
 
 Maddy was happily daydreaming by the water
 
-ADD MORE Maddy is excited to visit Chioogia since she heard of it. Uncle says "we'd go to Venice proper and maybe visit your parents." She recoils. He says they're just headed down the way to exchange fish for firewood
+"Hey kiddo, hop in that rowboat. Today, you're going to help me sell fish!" Maddy's uncle proclaimed.
+
+"Really? Can we go to Chiogia?" She lit up!
+
+He chuckled. "WHy Chioggia?" He asked.
+
+She shrugged. She didn't know. She'd just heard there was it was a close island when she was still in Venice proper with her parents. She was eager for newness.
+
+"We're just going down the way to get some firewood for some of my catch today." He leaned in. "But, if you're a real good helper, maybe I'll take you with to the Venice fish market. We can even visit your parents." He smiled.
+
+Her stomach flipped. She didn't want to touch fish and she really, really didn't want to see her parents. 
+
+She crawled in the rowboat next to the smelly fish and scrunched her nose. 
+
+As they pushed off, her shoulders sank and she stared out over the water. 
+
 
 Spring of 1476
 
@@ -82,9 +97,14 @@ The boy was a little obnoxious sometimes too, but, she was a professional now.
 
 There was the nice old lady that talked to Aunt Cat at church forever. She got some fish to.
 
-Next was the tailor. 
+Next was the tailor. He handed Maddy money and his crisp, black shirt smelled like, well something! 
 
-ADD MORE Add more customers
+When I grow up, my clothes will smell like lavender and other, spices and stuff! I want important clothes like that!
+
+The tailor was polite and professional. She watched him as he walked away and kept stealing glances at him even as she gave the next customer her fish. 
+
+
+The day wore on and on forever. At least it seemed that way to Maddy. 
 
 “-and I mean, I guess that’s just what I think. I just don’t get it. Maybe, I’m just tired of fish, you know? It’s just, overrated. I guess.” Maddy looked up at the boy, her eyes pinched a little and she tucked her lips in. “I’m sorry, what did you want to buy?”
 
