@@ -2,26 +2,25 @@
 
 Maddy sat outside, just out of sight from the door. It was still light out. She could hear her aunt and uncle chatting happily inside.
 
-
-"I'm so grateful the priest took the time to read that for us." Maddy's aunt's voice was muted and soft, but the glee was clear. 
+"I'm so grateful the priest took the time to read that for us." Maddy's aunt's voice was muted and soft, but the glee was clear.
 
 "It's so good to hear how good he is doing! Not that I worry about him. He's always been a stable boy." Her uncle chirped. "You've been a wonderful mother. I'm so glad you're my wife."
 
-Maddy rolled her stinging eyes. Her lip quivered. 
+Maddy rolled her stinging eyes. Her lip quivered.
 
 Stupid lips.
 
 Her aunt and uncle had gotten a letter from one of their sons and were just, so happy all day after the priest read it for them at the church.
 
-Maddy was happy that Mariano was doing well, but. . . she was jealous. 
+Maddy was happy that Mariano was doing well, but. . . she was jealous.
 
-Why couldn’t they be my parents? She thought to herself bitterly. She didn't look back in through the warm door. She looked out to the cold night sea. 
+Why couldn’t they be my parents? She thought to herself bitterly. She didn't look back in through the warm door. She looked out to the cold night sea.
 
-She was there now, on Burano. In their little mud house, but was it still really her home? It wasn’t really her parents and even though they were really nice. She felt something. Displaced? Lesser? She felt like family, just not like a daughter. 
+She was there now, on Burano. In their little mud house, but was it still really her home? It wasn’t really her parents and even though they were really nice. She felt something. Displaced? Lesser? She felt like family, just not like a daughter.
 
 If she wrote her aunt and uncle a letter, would they even ask the priest to read it? If the priest did read it, would they be so happy that they'd be still talking about it at dinner time?
 
-Probably not. 
+Probably not.
 
 The February wind picked up the icy mist and prickled her cheek. She buried her face in her arms, glaring at the water.
 
@@ -51,9 +50,7 @@ Aunt Caterina chuckled.
 
 Maddy pulled her lips in and pressed her thumb nail against them.
 
-Aunt Caterina turned away and started pouring more soup into two more bowls. 
-
-
+Aunt Caterina turned away and started pouring more soup into two more bowls.
 
 Maddy sat and quietly ate her fish soup.
 
@@ -69,7 +66,9 @@ Aunt Cat handed him a bowl of fish soup to.
 
 Maddy sighed and imagined what her life would have been like as a baby mermaid in the sea.
 
+It was that next spring when her uncle had her start selling fish with him.
 
+Maddy was happily daydreaming by the water
 
 Spring of 1476
 
@@ -99,8 +98,6 @@ Maddy wiped her hands on a rag. She hated wiping the fish smell off on her apron
 
 Well, with her uncle being a fisherman and all, she felt like she absolutely always smelled like fish, it just made her feel more smelly.
 
-
-
 Chapter 3 Baby Marco's Visit
 
 Maddy was at the docks a little over a week later.
@@ -109,22 +106,17 @@ She was staring wistfully out to sea when she caught a glimpse of a ship.
 
 Her parents' faces flashed in her mind and her stomach flipped for a second.
 
-"They probably aren't on that ship." She said to herself. 
+"They probably aren't on that ship." She said to herself.
 
 Someone from the village saw the ship to because they started shouting. Soon, townsfolk were about, waiting happily.
 
-
-Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all of that.
-Maddy stared quietly at her aunt's face. Yeah. She looked like her father a bit. They both had big, wide cheeks. 
+Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all of that. Maddy stared quietly at her aunt's face. Yeah. She looked like her father a bit. They both had big, wide cheeks.
 
 Baby Marco was on that ship. He came to shore in a little rowboat and everyone hugged him when he jumped off.
 
+The sounds of the busy dock. The colors of the new comers and their clothes, and all the smells. Everything felt muted to Maddy. Her focus distant, but piercing. She politely hugged him and pretended to listen as her aunt and uncle grilled him about his time away. But Maddy kept peering back to the rowboats.
 
-The sounds of the busy dock. The colors of the new comers and their clothes, and all the smells. Everything felt muted to Maddy. Her focus distant, but piercing. 
-She politely hugged him and pretended to listen as her aunt and uncle grilled him about his time away.
-But Maddy kept peering back to the rowboats.
-
-It was hours later when there was no possibility of anyone else Maddy recognized coming to shore that Maddy was able to calm down and actually be there with her cousin. 
+It was hours later when there was no possibility of anyone else Maddy recognized coming to shore that Maddy was able to calm down and actually be there with her cousin.
 
 It was early evening. The bright, happy sunshine reflected off the sea in it's lazy ripples.
 
@@ -132,15 +124,15 @@ It was early evening. The bright, happy sunshine reflected off the sea in it's l
 
 "It's really nice." Baby Marco leaned back, sinking his weight onto his shoulders. "I like that it's more than the other cabin boys listing to me now. I can say like, 'this needs to be tighter,' and someone usually comes and fixes it. I guess it feels safe?"
 
-Maddy nodded. 
+Maddy nodded.
 
 "What's it like, being so far out on the water? Like, everyday?"
 
-Baby Marco laughed. 
+Baby Marco laughed.
 
 "It feels, I dunno, wiggly?" He laughed again
 
-She smacked his arm affectionately. 
+She smacked his arm affectionately.
 
 "I'd like to feel it." Her eyes wandered out again. "I would feel so free on the water."
 
@@ -148,20 +140,19 @@ His eyebrows rose up.
 
 A pair of boys from the village walked past behind them. One of them faked a gagging sound.
 
-Maddy's face scrunched up. She darted to the shoreline and dunked her hands in, her sleeves getting soaked as she did. She ran after the boys and threw her handful of water at them. 
+Maddy's face scrunched up. She darted to the shoreline and dunked her hands in, her sleeves getting soaked as she did. She ran after the boys and threw her handful of water at them.
 
-The boys ran away laughing. 
-"Fish girl!" One called.
+The boys ran away laughing. "Fish girl!" One called.
 
 Maddy's face was bright red when she plopped back down next to Baby Marco.
 
-He wasn't smiling. 
+He wasn't smiling.
 
 "Maddy, you know, it might be time to be, you know, a bit more . . . proper. You might want to find someone soon and-" He saw her nose wrinkle.
 
-She sighed, looking out at the water. 
+She sighed, looking out at the water.
 
-"Naw, those boys." She shrugged. "I don't let them bother me. Besides, I'm going to be-" Her eyes wandered around for a second. She squinted out past the water, her bottom lip pulled up in a determined frown. "I'm going to be, someone that someone remembers someday." She nodded at that, apparently somewhat pleased with her own words. 
+"Naw, those boys." She shrugged. "I don't let them bother me. Besides, I'm going to be-" Her eyes wandered around for a second. She squinted out past the water, her bottom lip pulled up in a determined frown. "I'm going to be, someone that someone remembers someday." She nodded at that, apparently somewhat pleased with her own words.
 
 He looked over at her.
 
@@ -181,31 +172,25 @@ She snapped her gaze back out to the water.
 
 "Maybe I'll be a mermaid when I grow up."
 
-
-
 He shook his head, eyeing the ground. "You know, it really bothers Mom when you say that mermaid stuff."
 
 Maddy didn't stop looking out to sea.
 
+Baby Marco looked to her, then out to the sea to, then down again.
 
-Baby Marco looked to her, then out to the sea to, then down again. 
-
-"Yeah sure Maddy." He said, pitching himself forward. "I'll show you what I know. Just promise that." But he couldn't seem to think of a promise, and he didn't say anything else.  
+"Yeah sure Maddy." He said, pitching himself forward. "I'll show you what I know. Just promise that." But he couldn't seem to think of a promise, and he didn't say anything else.
 
 She looked back at him and smiled softly.
 
-He shook his head and grabbed a stick, tracing letters in the dirt.
-"Ok, so-" he began his lessons. 
-
-
+He shook his head and grabbed a stick, tracing letters in the dirt. "Ok, so-" he began his lessons.
 
 ??? Time transition ADD MORE
 
-Another ship came in and the rowboats brought people in. 
+Another ship came in and the rowboats brought people in.
 
-Maddy tensed and watched the faces, always wary that her parents would be there. 
+Maddy tensed and watched the faces, always wary that her parents would be there.
 
-They were not. 
+They were not.
 
 There was however, a different familiar face was.
 
@@ -213,9 +198,76 @@ Excitement rippled through her.
 
 "Hey!" She called.
 
-He jumped at the sound of her voice! The clatter rose above the busy sounds of the dock. The other barrels rocked and settled. The boy was desperately trying to steady them, his hands frozen in the air. 
+He jumped at the sound of her voice! The clatter rose above the busy sounds of the dock. The other barrels rocked and settled. The boy was desperately trying to steady them, his hands frozen in the air.
 
-"You said you'd take me to the bakery!" 
+"You said you'd take me to the bakery!"
 
 He nodded at her with wide eyes.
 
+"Well, let's go!" she urged, beconing.
+
+"I have to unooad first." He was so quiet, she almost didn't hear him.
+
+She trotted over and slapped a bung on one of the barrels. It seemed secure to her.
+
+"Is this drinking water?" She asked.
+
+"What?" His eyes were even wider now.
+
+"Is this fresh water? For drinking?"
+
+"It'they're empty now. We have to restock."
+
+"Oh!" She chirped. She kicked it over and rolled it along the path, setting it up again next to the others.
+
+ADD MORE research where sailors restocked when visiting Burano
+
+He snorted in amused shock and positioned hiself to lift another barrel.
+
+With her help, the chores were done quickly.
+
+"Let me go ask Gio real quick if I can go."
+
+He darted off into the bustling crowd. She pursed her lips and kicked at the ground.
+
+He popped back promptly with a sky smile.
+
+She happily led him through the town to the bakery and almost shoved him inside.
+
+She was ready to enjoy herself!
+
+He seemed really shy. He didn't say much the whole time.
+
+When they were coming out of the bakery, one of those boys were there.
+
+He stuck his tongue out at her, but she didn't respond. She just turned away.
+
+"You don't cook fish all the time, right?" She said to her companion.
+
+"No. I make other stuff. Lots of other stuff." He stammered.
+
+"Fish girl!" The obnoxious boy from the village called.
+
+Maddy could feel her face getting red. Her eyes got tight, but didn't look away from her companion.
+
+"Do you bake?" Maddy tried to keep her voice normal, but it felt angry.
+
+"Hey fish girl! Fish girl!" The boy called louder and louder.
+
+Maddy wanted to throw things at him, but her companion stepped in front so she couldn't see the obnoxious boy anymore.
+
+"I haven't baked much. I suppose I could l-learn how." He stammered.
+
+Maddy could still feel the obnoxious boy behind him, but she felt, a little bit calmer.
+
+"You should learn to make zaletti cookies! With raisins!"
+
+"I'd learn how to make them." He got really quiet. "For you."
+
+The obnoxious boy stormed off behind her bakery friend.
+
+"You promise?" Maddy challenged again.
+
+Her bakery friend made a funny noise. It was kind like a laugh, but also a little bit like a choking sound.
+
+She smiled and watched the obnoxious boy leaving in the distance.
