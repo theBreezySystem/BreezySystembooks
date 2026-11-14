@@ -182,7 +182,9 @@ Baby Marco looked to her, then out to the sea to, then down again.
 
 She looked back at him and smiled softly.
 
-He shook his head and grabbed a stick, tracing letters in the dirt. "Ok, so-" he began his lessons.
+He shook his head.
+
+"Ok, so-" he began his lessons.
 
 ??? Time transition ADD MORE
 
@@ -206,7 +208,7 @@ He nodded at her with wide eyes.
 
 "Well, let's go!" she urged, beconing.
 
-"I have to unooad first." He was so quiet, she almost didn't hear him.
+"I have to unload first." He was so quiet, she almost didn't hear him.
 
 She trotted over and slapped a bung on one of the barrels. It seemed secure to her.
 
@@ -216,13 +218,13 @@ She trotted over and slapped a bung on one of the barrels. It seemed secure to h
 
 "Is this fresh water? For drinking?"
 
-"It'they're empty now. We have to restock."
+"It's-they're empty now. We have to restock."
 
 "Oh!" She chirped. She kicked it over and rolled it along the path, setting it up again next to the others.
 
 ADD MORE research where sailors restocked when visiting Burano
 
-He snorted in amused shock and positioned hiself to lift another barrel.
+He snorted in amused shock and positioned himself to lift another barrel.
 
 With her help, the chores were done quickly.
 
@@ -252,7 +254,7 @@ Maddy could feel her face getting red. Her eyes got tight, but didn't look away 
 
 "Do you bake?" Maddy tried to keep her voice normal, but it felt angry.
 
-"Hey fish girl! Fish girl!" The boy called louder and louder.
+"Hey! You smell like yesterdays catch!" The boy called louder and louder.
 
 Maddy wanted to throw things at him, but her companion stepped in front so she couldn't see the obnoxious boy anymore.
 
@@ -269,7 +271,7 @@ The obnoxious boy stormed off behind her bakery friend.
 
 "You promise?" Maddy challenged again.
 
-Her bakery friend made a funny noise. It was kind like a laugh, but also a little bit like a choking sound.
+Her companion made a funny noise. It was kind like a laugh, but also a little bit like a choking sound.
 
 She smiled and watched the obnoxious boy leaving in the distance.
 
@@ -284,3 +286,18 @@ She looked at her companion.
 
 Chapter 4
 
+Febuary 1479
+
+Maddy tried not to seem too excited when she hugged her aunt and uncle before they packed back onto the rowboat. 
+
+It wasn't like she was leaving. She was still in Burano and she'd still be able to see them any time. But her future was unfolding here, at Mister Antonio's tailor shop! 
+
+"You be good now!" Aunt Cat whimpered. Her tears bright streaks down her loving cheeks. 
+
+"Ok Auntie, I will be." Maddy promised.
+
+"Thank you for letting her help. I promise I'll look after her." Anotnio's voice felt so smooth to Maddy. Refined. Polished. Important.
+
+"You're a good man Antonio di Rossi." Maddy's uncle said to Antonio. He sniffled a bit too.
+
+Maybe they do love me. Maddy pondered, watching her aunt and uncle miss her already. 
