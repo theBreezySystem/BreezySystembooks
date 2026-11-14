@@ -266,7 +266,7 @@ Maddy could still feel the obnoxious boy behind him, but she felt, a little bit 
 
 "I'd learn how to make them." He got really quiet. "For you."
 
-The obnoxious boy stormed off behind her bakery friend.
+The obnoxious boy stormed off behind her companion.
 
 
 "You promise?" Maddy challenged again.
