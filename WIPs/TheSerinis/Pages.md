@@ -266,8 +266,21 @@ Maddy could still feel the obnoxious boy behind him, but she felt, a little bit 
 
 The obnoxious boy stormed off behind her bakery friend.
 
+
 "You promise?" Maddy challenged again.
 
 Her bakery friend made a funny noise. It was kind like a laugh, but also a little bit like a choking sound.
 
 She smiled and watched the obnoxious boy leaving in the distance.
+
+
+"What did you do with the gobies you bought from my uncle?" Maddy reflected, her eyes still locked on the edge of the building where the obnoxious boy disappeared behind. 
+
+"Oh, we uh, boil them and make a broth? Then we make rice with it." He explained beside her. She smacked her lips and looked around. The taste of the corn meal cookie still sticking to her teeth. She was happy. Satisfied and grateful she didn't need to throw water at the obnoxious boy. 
+
+She looked at her companion. 
+
+"What's your name by the way?"
+
+Chapter 4
+
