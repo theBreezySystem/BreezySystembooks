@@ -341,3 +341,15 @@ It wasn't like she was leaving. She was still in Burano and she'd still be able 
 "You're a good man Antonio di Rossi." Maddy's uncle said to Antonio. He sniffled a bit too.
 
 Maybe they do love me. Maddy pondered, watching her aunt and uncle miss her already. 
+
+Antonio waited patiently until they were gone before he turned to Maddy.
+
+"I expect you to pay attention while you're here. I expect you to do good work here." He leaned in a bit, gently. 
+
+His clothes smell like, pepper and flowers. She noted.
+
+"I believe you can. I've seen your dedication before." He turned and grandly walked into his shop. "Here, we use the incredible techniques of underdying. Some people use the technique to make obscene colors for courtesans, but here," He flourished a bit, motioning over the collection of deep fabrics. "We make the most professional, elegant blacks!" He spoke each word with intention and pride. 
+
+"Professional, elegant blacks." Maddy whispered under her breath, gingerly touching the edge of one of the cloths.
+
+He smiled at her warmly and she sighed. 
