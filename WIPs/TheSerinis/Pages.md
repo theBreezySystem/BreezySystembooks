@@ -353,3 +353,82 @@ His clothes smell like, pepper and flowers. She noted.
 "Professional, elegant blacks." Maddy whispered under her breath, gingerly touching the edge of one of the cloths.
 
 He smiled at her warmly and she sighed. 
+
+
+Chapter ADD MORE
+
+A woman came in the door of the tailor’s shop.
+
+Maddy smiled and asked if she could help her.
+
+“I need to see Antonio.” The woman said. She was obvously sweating at her hairline.
+She sat her basket down as Maddy popped into the back to grab Antonio.
+
+“I need a few minutes.” Antonio said.
+
+Maddy headed back to the lady.
+
+“He should be right out.” Maddy told the woman.
+
+She had sat down and pulled a sling off her shoulder. She set her swaddled baby on her lap and slumped into the chair.
+
+Maddy felt bad for her. Her high-collared wool dress looked hot and itchy.
+
+The basket made a whimper.
+
+“Oh! Are they twins?!” Maddy asked, her childish excitement oozing out.
+
+The lady smiled a tired smile.
+
+“My girls. Antonia,” She lifted her heels, lifting the baby on her lap, “and Alessandria.” She touched the basket with her toe. 
+
+“They are so cute!”
+
+“Thank you.” She used her toe to lift the basket on one end and rock the baby in the basket.
+
+“You look exhausted. I’m sure he’ll be out soon.”
+
+She snorted.
+“I doubt it.”
+She adjusted the sling with one of the girls on her chest. 
+"You're Maddy. There was someone asking for you when I was on the way. Someone was looking for you at the dock."
+She grabbed the basket and stood up.
+“Could you get the door for me?”
+
+Maddy popped up. She was a little concerned about letting the lady in the back while Antonio was obviously engrossed in his task, but this woman needed some sort of hand.
+
+Someone at the dock? Maddy wondered as she opened the door to reveal the back of Antonio.
+
+“What is it?” He called, not looking back.
+
+Maddy opened her mouth but the woman got there first.
+
+“You have a message from the guild.”
+
+Antonio turned around.
+“Elana!” He looked around for a second, adjusting to the surprise of seeing her. “What news of the guild do you bring?”
+
+“They are voting on a potential apprentice today in Venice.”
+
+Antonio lit up!
+
+“My wonderful wife! Thank you for bringing me this news! If I leave now, I might be able to make it in time. So fortunate that this news came in the morning!” He threw the corners of his pile over it to create a small lump on the table. He jumped up, giddy. “I won’t be home tonight. I’ll stay in Venice til tomorrow.” He nodded to his wife as he brushed past. She smiled polietly as he hurried out of his shop.
+“Madelina, tell any customers I needed to head to Venice for business and I’ll return tomorrow. Do take as many orders as you can.”
+
+The two girls watched him leave.
+
+Elana sat back down in the chair.
+
+Maddy looked at the woman. She looked really close to her own age. Maybe a bit older, but not by much. Sweating and slumping in the chair.
+
+Maddy shifted for a bit before popping into the back. She found a linen cloth. A smaller one used for smoothing cutoffs. She dipped it in the water and headed back.
+
+“Here.” She handed it to Elana.
+
+Elana looked at her thoughtfully for a moment or two.
+
+“Thank you.” She said, pressing the cloth at her neckline. Her eyes flashed to the door for a second, then she pulled the button on the side and opened her collar.
+
+The baby in the sling started to whimper and wiggle in her cocoon.
+
+Elana sighed and picked them both up and headed into the work room without looking at Maddy. She closed the door behind her with her foot.
