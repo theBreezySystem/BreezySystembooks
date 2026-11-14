@@ -1,3 +1,4 @@
+Chapter 1
 1474
 
 Maddy sat outside, just out of sight from the door. It was still light out. She could hear her aunt and uncle chatting happily inside.
@@ -87,6 +88,7 @@ She crawled in the rowboat next to the smelly fish and scrunched her nose.
 As they pushed off, her shoulders sank and she stared out over the water. 
 
 
+Chapter 2
 Spring of 1476
 
 The day seemed too hot for Maddy.
@@ -132,17 +134,21 @@ Maddy wiped her hands on a rag. She hated wiping the fish smell off on her apron
 
 Well, with her uncle being a fisherman and all, she felt like she absolutely always smelled like fish, it just made her feel more smelly.
 
+ADD MORE
+
 Chapter 3 Baby Marco's Visit
 
 Maddy was at the docks a little over a week later.
 
 She was staring wistfully out to sea when she caught a glimpse of a ship.
 
+A gasp of terror escaped her before she could catch it!
+
 Her parents' faces flashed in her mind and her stomach flipped for a second.
 
-"They probably aren't on that ship." She said to herself.
+"They probably aren't on that ship." She said to reassure herself.
 
-Someone from the village saw the ship to because they started shouting. Soon, townsfolk were about, waiting happily.
+Someone from the village saw the ship too because they started shouting. Soon, townsfolk were about, waiting happily.
 
 Maddy's aunt and uncle found her, greeted her and hugged her, telling her how excited they were and all of that. Maddy stared quietly at her aunt's face. Yeah. She looked like her father a bit. They both had big, wide cheeks.
 
