@@ -70,7 +70,21 @@ It was that next spring when her uncle had her start selling fish with him.
 
 Maddy was happily daydreaming by the water
 
+ADD MORE Maddy is excited to visit Chioogia since she heard of it. Uncle says "we'd go to Venice proper and maybe visit your parents." She recoils. He says they're just headed down the way to exchange fish for firewood
+
 Spring of 1476
+
+The day seemed too hot for Maddy.
+
+She gave fish to her neighbor boy without making a face. She hated touching the fish.
+
+The boy was a little obnoxious sometimes too, but, she was a professional now. 
+
+There was the nice old lady that talked to Aunt Cat at church forever. She got some fish to.
+
+Next was the tailor. 
+
+ADD MORE Add more customers
 
 “-and I mean, I guess that’s just what I think. I just don’t get it. Maybe, I’m just tired of fish, you know? It’s just, overrated. I guess.” Maddy looked up at the boy, her eyes pinched a little and she tucked her lips in. “I’m sorry, what did you want to buy?”
 
