@@ -246,7 +246,7 @@ He jumped at the sound of her voice! The clatter rose above the busy sounds of t
 
 He nodded at her with wide eyes.
 
-"Well, let's go!" she urged, beconing.
+"Well, let's go!" she urged, beaconing.
 
 "I have to unload first." He was so quiet, she almost didn't hear him.
 
@@ -432,3 +432,28 @@ Elana looked at her thoughtfully for a moment or two.
 The baby in the sling started to whimper and wiggle in her cocoon.
 
 Elana sighed and picked them both up and headed into the work room without looking at Maddy. She closed the door behind her with her foot.
+
+
+
+Outline
+
+ADD MORE
+Maddy watches Antonio work his tailor’s shop in every way she can
+
+ADD MORE
+Antonio calls her “Girl.”
+She comes and he just starts taking her close off.
+As she is considering if she is into it or not, she asks “What will Elana think?”
+He says “She can’t avoid coming to bed for this long and not expect this.”
+
+ADD MORE
+Maddy stops bleeding when the twins are 8 mo old.
+
+ADD MORE
+Maddy comes to Antonio, letting him know about the baby. He refuses to aknowledge it.
+“There has only been you,” Maddy says
+He shakes his head. “That child is not mine.”
+
+“You’re right,” she says, filling with rage and revenge. “My mistake.”
+
+
