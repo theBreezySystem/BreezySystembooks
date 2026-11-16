@@ -522,7 +522,7 @@ Jan 1481        — 8 mo
 
 Feb 1481        — 9 mo Word gets around about a girl looking for tailor work and Maria's son put in word for her
 
-March 1481      — 10 mo Maddy and Maria's son catch up. He says that his mom would love to have her back. She questions that because of ALessandro. He says Mom would love to have him around, but she hesitates. He urges her to work for them and sets her with stable business. He sends word home to Burano and Marco starts looking for her. 
+March 1481      — 10 mo Maddy and Maria's son catch up. He says that his mom would love to have her back. She questions that because of ALessandro. He says Mom would love to have him around, but she hesitates. He urges her to work for them and sets her with stable business. He sends word home to Burano and Marco starts looking for her, demanding that Barto come with him.
 
 April 1481      — 11 mo
 
@@ -540,7 +540,14 @@ Her stomach growled and her eyes went distant for a minute as she chewed. Alessa
 
 Aug 1481        — 15 mo 
 
-Sept 1481       — 16 mo - Maddy stays with a guy for the winter
+Sept 1481       — 16 mo - 
+
+"Hey," Maddy shyly called to the lanky figure. He turned to her, waiting patiently.
+
+"It's getting cold again." Her eyes darted down. "Care for some company through the cold months?"
+
+He smiled politely. "Sure." He said casually.
+
 
 Oct 1481        — 17 mo
 
@@ -550,7 +557,42 @@ Dec 1481        — 19 mo
 
 Jan 1482        — 20 mo 1 mo
 
+"Your bastard." Maddy ruminited. 
+He hadn't said it with malice, just factually.
+
+Maddy stared her sweet Alessandro, surrounded by her fabric rememants, gently rubbing his cheek on a small bit of fabric.
+
+My bastard. She thought to herself sadly. My sweet, precious bastard. I want to give you more of a life than this. 
+
+
+
 Feb 1482        — 21 mo 2 mo - Guy disappears, Maddy got to Maria's son who puts her up until she can head back. 
+
+"Momma, Momma, Momma, Momma, Momma!" Alessandro chanted rythmicially as he bounced by her, smacking her ribs with his little hands.
+
+She couldn't even turn to tell him to stop. She was just exhausted.
+
+~~
+
+It had been three days and he hadn't come back. 
+
+*He probably found work somewhere.* Maddy thought to herself. *Doing whatever.*
+
+There was a longing, but also a relief. Maddy sighed into her mess of emotions. 
+
+"Come on sweet baby, Let's go visit someone."
+
+He smiled at her and crawled out of the pile to climb on her lap.
+
+Her eyes were distant again, but she rubbed his back and leaned his cheek against her.
+
+
+~~
+Before she opened the door to the tailor's shop, Maddy took a sharp breath.
+
+ADD MORE
+She chats with Tailor's son and he puts her up.
+
 
 March 1482      — 22 mo 3 mo Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's. She is all too willing to go back to Maria's. Marco assumes the baby is Barto's and sets her up to talk to Barto saying, if it was his child, he'd want to know. He all but locks Maddy in a roon with Barto
 
