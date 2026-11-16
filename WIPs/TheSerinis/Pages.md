@@ -97,7 +97,7 @@ She gave fish to her neighbor boy without making a face. She hated touching the 
 
 The boy was a little obnoxious sometimes too, but, she was a professional now. 
 
-There was the nice old lady that talked to Aunt Cat at church forever. She got some fish to.
+There was the nice old lady, Maria, that talked to Aunt Cat at church forever. She got some fish to.
 
 Next was the tailor. He handed Maddy money and his crisp, black shirt smelled like, well something! 
 
@@ -437,10 +437,24 @@ Elana sighed and picked them both up and headed into the work room without looki
 
 Outline
 
+Barto comes back, and they hang out, spending the whole night together talking. 
+
+
+(behind the scenes. Barto has asked Antonio to marry Maddy. He tells him that he'd need to pay him to buy her out of his service, something Antonio is not leagally allowed to do in this position. Barto goes off, promising to come back with enough money.)
+
 ADD MORE
 Maddy watches Antonio work his tailor’s shop in every way she can
 
 ADD MORE
+Barto comes by again and he and Maddy spend the next few days together, laughing loudly. One evening, she doesn't come back all night. The whole villige sees.
+
+Antonio is furious and lectures her about how while she is in his care, she is his to care for and he needs to keep her away from "young men."
+
+ADD MORE
+Maddy watches Antonio with less vigor. Marco comes in and they chat before he sets off. He's heard the rumours at this point. She complains about Antonio but Marco insists that Antonio had her best intentions at heart. 
+
+ADD MORE
+Aug 1479
 Antonio calls her “Girl.”
 She comes and he just starts taking her close off.
 As she is considering if she is into it or not, she asks “What will Elana think?”
@@ -450,10 +464,103 @@ ADD MORE
 Maddy stops bleeding when the twins are 8 mo old.
 
 ADD MORE
-Maddy comes to Antonio, letting him know about the baby. He refuses to aknowledge it.
+Marco and Barto realize they both know Maddy
+
+ADD MORE
+Maddy comes to Antonio, letting him know about the baby. He refuses to acknowledge it.
 “There has only been you,” Maddy says
 He shakes his head. “That child is not mine.”
 
 “You’re right,” she says, filling with rage and revenge. “My mistake.”
 
+ADD MORE
+Maddy escapes and goes to Maria's house. Maria's husband sees her and thinks it's their kid, calling her inside. 
+She stays for a bit
+
+ADD MORE
+Aunt and uncle find her and are hurt and confused, but leave her to figure stuff out.
+
+ADD MORE 
+Sept
+Maddy doesn't want to be a burdon so she leaves.
+
+
+ADD MORE
+Maddy goes to Venice to find work and starts sleeping on the streets to save money for when the baby is born. Aunt Cat and Uncle Marco send word for her, sending Marco to find her. He finds her working at a tavern, making her own way. Marco and Barto talk to her. Barto tells her he wants to be an option for her. Marco gives her money
+The go back to Burarno and report
+
+Word gets back to Maria that Maddy is in Venice and she sends word to her son there
+
+ADD MORE
+Early Jan 5 months
+
+Maddy gets kicked out of the tavern
+She uses the money she saved to rent s space to sleep
+
+ADD MORE
+March
+
+Marco and Barto go to find Maddy again and can't find her at the tavern. Maria's son is also keeping an eye out for her
+
+May 1480        — Alessandro is born
+
+June 1480       — 1 mo
+
+July 1480       — 2 mo
+
+Aug 1480        — 3 mo
+
+Sept 1480       — 4 mo
+
+Oct 1480        — 5 mo
+
+Nov 1480        — 6 mo Maddy runs low on money and starts looking for tailors to do piecemeal for. She reaches out to the lady in Burano
+
+Dec 1480        — 7 mo
+
+Jan 1481        — 8 mo
+
+Feb 1481        — 9 mo Word gets around about a girl looking for tailor work and Maria's son put in word for her
+
+March 1481      — 10 mo Maddy and Maria's son catch up. He says that his mom would love to have her back. She questions that because of ALessandro. He says Mom would love to have him around, but she hesitates. He urges her to work for them and sets her with stable business. He sends word home to Burano and Marco starts looking for her. 
+
+April 1481      — 11 mo
+
+May 1481        — 12 mo (1 year)
+
+June 1481       — 13 mo
+
+July 1481       — 14 mo -On again off agin relationship, Maddy stops visiting Maria's son and he worries
+
+Maddy broke the bread in half and Alessandro gleefully took a piece.
+
+She smiled at him and wrinkled her nose playfully as they both took a bite. 
+
+Her stomach growled and her eyes went distant for a minute as she chewed. Alessandro wasn't suckling as much, but it seemed like she was always hungry. 
+
+Aug 1481        — 15 mo 
+
+Sept 1481       — 16 mo - Maddy stays with a guy for the winter
+
+Oct 1481        — 17 mo
+
+Nov 1481        — 18 mo (1.5 years)
+
+Dec 1481        — 19 mo
+
+Jan 1482        — 20 mo 1 mo
+
+Feb 1482        — 21 mo 2 mo - Guy disappears, Maddy got to Maria's son who puts her up until she can head back. 
+
+March 1482      — 22 mo 3 mo Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's. She is all too willing to go back to Maria's. Marco assumes the baby is Barto's and sets her up to talk to Barto saying, if it was his child, he'd want to know. He all but locks Maddy in a roon with Barto
+
+April 1482      — 23 mo 4mo
+
+May 1482        — 24 mo (2 years) 5 mo
+
+June 1482      - 25 mo 6 mo
+
+Ju;y          - 26 mo 7 mo
+
+Aug          - 27 mo Fiametta is born
 
