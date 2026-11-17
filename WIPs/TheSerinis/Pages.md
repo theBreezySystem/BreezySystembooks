@@ -596,6 +596,53 @@ She chats with Tailor's son and he puts her up.
 
 March 1482      — 22 mo 3 mo Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's. She is all too willing to go back to Maria's. Marco assumes the baby is Barto's and sets her up to talk to Barto saying, if it was his child, he'd want to know. He all but locks Maddy in a roon with Barto
 
+maria hug
+
+alessandro on lap
+
+small talk
+
+not married
+
+Looking 4 u
+
+scoff why?
+
+Marry u
+
+Antonio
+-snort
+
+for real I cae back
+
+and what of my bastard?
+
+people in town say he's mine
+
+ppl in town say a lot 
+
+they don't need tomknow diff
+
+u serious
+
+nodd
+
+what if anothewr?
+
+Barto feels 
+love it to
+
+Prove it
+
+nods
+
+tomorrow? -mady
+
+nods
+
+tomorrow
+
+Makes her bk fast
 April 1482      — 23 mo 4mo
 
 May 1482        — 24 mo (2 years) 5 mo
