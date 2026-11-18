@@ -8484,7 +8484,7 @@ DAY 29
 DAY 30-FOUR WEEKS/ MONTH 1
 DAY 31
 DAY 32
-The men catch seagulls. Oca offers to slaughter and dress them. No one is opposed and he drains them and defeathers them
+The men catch fish. Oca offers to gut them. No one is opposed and he drains them
 DAY 33
 DAY 34
 DAY 35
