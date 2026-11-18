@@ -719,37 +719,51 @@ Barto shrugged.
 
 "I dunno. I-I still want to marry you."
 
-Antonio
--snort
+"Yeah?" She challanged. The calm words "your bastard," said by Maddy's last partner echoed in her head. "And what about 'my bastard?'"
 
-for real; I came back
+Barto looked up at Maddy. 
 
-and what of my bastard?
+"People in town say he's mine."
 
-people in town say he's mine
+The longing was there, but they were both aware that they had never touched each other.
 
-ppl in town say a lot 
+"People in town say a lot of stuff." Maddy sighed, loosening. 
 
-they don't need to know any diff
+"They don't," Barto started, eaarching the floor. "They don't need to know any different."
 
-u serious
+Maddy almost gasped, so she cleared her throat. 
 
-nod
+Silence again. 
 
-what if another?
+"Are you serious?" Maddy challanged sharply.
 
-Barto feels 
-love it to
+Barto nodded at the floor, a lot.
 
-Prove it
 
-nods
 
-tomorrow? -mady
+Maddy shifted on her heels again. 
+"What if." She broke a bit, shuffling her weight from one foot to another. "What if there was another?" She said quietly.
 
-nods
+Barto's face did all sorts of things. He snorted and smiled, his cheeks warm and round. His brows went together for a second. He shook his head. It was impressive.
 
-tomorrow
+"I'd love it to!" He was genuine! Glancing from her face to her tummy.
+
+Maddy seemed unconvinced still. 
+
+"Prove it." She said.
+
+Barto nodded more.
+
+"Tomorrow?" Maddy asked, her voice breaking.
+
+"Tomorrow!" He said, gleefully springing up before darting out.
+
+
+The door closed and Maddy crumpled to the floor, the tears breaking out of her like an earthquake. 
+
+
+
+
 
 Makes her bk fast
 
