@@ -566,13 +566,14 @@ My bastard. She thought to herself sadly. My sweet, precious bastard. I want to 
 
 
 
-Feb 1482        — 21 mo 2 mo - Guy disappears, Maddy got to Maria's son who puts her up until she can head back. 
+Feb 1, 1482        — 21 mo 2 mo - Guy disappears, Maddy got to Maria's son who puts her up until she can head back. 
 
 "Momma, Momma, Momma, Momma, Momma!" Alessandro chanted rythmicially as he bounced by her, smacking her ribs with his little hands.
 
 She couldn't even turn to tell him to stop. She was just exhausted.
 
 ~~
+Feb 3, 1482
 
 It had been three days and he hadn't come back. 
 
@@ -593,8 +594,12 @@ Before she opened the door to the tailor's shop, Maddy took a sharp breath.
 ADD MORE
 She chats with Tailor's son and he puts her up.
 
+Feb 8, 1482
+Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's. She is all too willing to go back to Maria's. They leave the next day
 
-March 1482      — 22 mo 3 mo Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's. She is all too willing to go back to Maria's. Marco assumes the baby is Barto's and sets her up to talk to Barto saying, if it was his child, he'd want to know. He all but locks Maddy in a roon with Barto
+Feb 9, 1482
+
+Marco assumes the baby is Barto's and sets her up to talk to Barto on the ride over saying, if it was his child, he'd want to know.
 
 maria hug
 
@@ -613,7 +618,7 @@ Marry u
 Antonio
 -snort
 
-for real I cae back
+for real; I came back
 
 and what of my bastard?
 
@@ -621,13 +626,13 @@ people in town say he's mine
 
 ppl in town say a lot 
 
-they don't need tomknow diff
+they don't need to know any diff
 
 u serious
 
-nodd
+nod
 
-what if anothewr?
+what if another?
 
 Barto feels 
 love it to
@@ -643,6 +648,14 @@ nods
 tomorrow
 
 Makes her bk fast
+
+Maria watches Alessandro
+
+Barto and Maddy go to the dock they met at.
+
+
+March 1482      — 22 mo 3 mo
+
 April 1482      — 23 mo 4mo
 
 May 1482        — 24 mo (2 years) 5 mo
