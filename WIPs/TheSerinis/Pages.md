@@ -599,21 +599,125 @@ Marco runs into Maddy. Is prepared to pressure her back to her aunt and uncle's.
 
 Feb 9, 1482
 
-Marco assumes the baby is Barto's and sets her up to talk to Barto on the ride over saying, if it was his child, he'd want to know.
+Maddy was a mess of emotions the next day.
 
-maria hug
+They were headed back to Burano.
 
-alessandro on lap
+*Will Aunt Cat and Uncle Marco hate me since I left?* Flashes of her parents' faces consumed her for a minute. *I didn't really think about Maria.* She mused. *I guess it never occured to me that she might be sad when I left.* Maddy remembered when Maria stared at her a little too long.
 
-small talk
+"Maddy?" She popped out of things to find Marco staring at her, his arms loosely resting on his knees. "I don't, I don't need to know why you- well I don't need to know any of it. I just wanted to say, Barto. I've spent time with him; he's a good guy." Marco licked his lips and looked down. "If it were my son, I'd want to know."
 
-not married
+Her eyebrows went together.
 
-Looking 4 u
+Marco nodded to Alessandro who was staring intently off the side of the small boat. 
 
-scoff why?
+"Maddy." Marco said in exhaustion. "Tell Barto about his son? Please?"
 
-Marry u
+"But I. . . ?" Flashes of Antonio in the dim light. Ghost memories of his forceful hands filled her and she couldn't say anthying else. She swallowed hard and looked out to the water to.
+
+The rest of the ride felt longer than she knew it was. 
+
+Her and Marco made some small talk, but otherwise, it was a pretty quiet time.
+
+Little Alessandro was fasinated by the water. 
+
+
+~~
+
+It felt like forever to get to there, but once they stood at Maria's door, it was suddenly too soon! Maddy's stomach flipped.
+
+Alessandro's patience had run out. He flopped in his mom's arms and whimpered. Maddy set him down.
+
+
+
+"Marco!" Maddy heard Maria call from inside the house.
+
+They both stepped in and Maddy smiled. 
+
+Maddy's eyes hadn't adjusted, but she could tell it was Maria's bony, sweet hug that wrapped around her. 
+
+"Where did you go?!" Maria accused. "We were so worried about you!"
+
+"I'm sorry." Maddy whispered. She felt it to. She remembered how scared she was when she left, but now, that all felt so, wrong. 
+
+"Don't do it again!" Maria pronounced her words firmly.
+
+Maddy smiled.
+
+As the darkness adjusted over Maria's shouder, Maddy recognized a form sitting in one of Maria's chairs.
+
+Maddy squinted and leaned closer.
+
+
+
+"Bakery boy?" Maddy whispered.
+
+Alessandro climbed up on Barto's lap. Barto stared at Maddy with wide eyes. She stared back at him with wide eyes.
+
+Maria pulled away from the hug and watched the exchange. 
+
+Alessandro used his little hands to pull up a little tent at Barto's neckline, and squashed it down.
+
+Barto chuckled, his deep chuckle, bouncing Alessandro on his chest. 
+
+Alessandro giggled and did it again.
+
+
+
+Maria stepped in.
+
+"Come on little one, let's go play in the other room." She scooped in and picked Alessandro up. He didn't protest, but he glanced at Maddy for a second. She smiled at him.
+
+"I'll help." Marco said, following Maria.
+
+Soon, it was just Barto and Maddy.
+
+
+
+"Hello Maddy." Barto started.
+
+"Hello Barto." 
+
+
+"You look well." 
+
+Maddy blushed a bit and looked around. 
+
+"Thanks." She said. 
+
+
+A silence settled around them.
+
+
+"Did you uh, ever marry?" Barto asked, looking at the floor.
+
+"No." Maddy said quietly. 
+
+
+"Me neither." Barto said.
+
+Maddy shifted.
+
+"I've been looking for you." Barto said.
+
+
+Something loosened in Maddy. She scoffed.
+
+"WHy?" She accused. 
+
+
+"I wanted to marry you!" Barto defended. "I went to Antonio-"
+
+Maddy snorted at the name, her eyes darting to the side, and her arms protectivly folding over her chest.
+
+"I'm serious!" Barto leaned in his chair. "He said I'd need to come back with his bride price so I could pay for your service for the rest of the year, I came back after I had the money and you were gone!"
+
+
+"He can't say that! I wasn't promised to him for any amount of time, and he didn't have control of my dowry or anything!" Rage filled Maddy. "Can he?"
+
+Barto shrugged.
+
+"I dunno. I-I still want to marry you."
 
 Antonio
 -snort
