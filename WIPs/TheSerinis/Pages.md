@@ -744,7 +744,7 @@ Barto nodded at the floor, a lot.
 Maddy shifted on her heels again. 
 "What if." She broke a bit, shuffling her weight from one foot to another. "What if there was another?" She said quietly.
 
-Barto's face did all sorts of things. He snorted and smiled, his cheeks warm and round. His brows went together for a second. He shook his head. It was impressive.
+Barto's face did all sorts of things. His brows went together for a second. He shook his head. He snorted and smiled, his cheeks warm and round. It was impressive.
 
 "I'd love it to!" He was genuine! Glancing from her face to her tummy.
 
@@ -770,6 +770,10 @@ Makes her bk fast
 Maria watches Alessandro
 
 Barto and Maddy go to the dock they met at.
+
+Towns folk murmmer in the background.
+
+
 
 
 
